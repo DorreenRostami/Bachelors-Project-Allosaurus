@@ -151,3 +151,11 @@ dmypy.json
 allosaurus/pretrained/*
 allosaurus.egg-info
 test_model/*
+LICENSE
+online_demo.png
+prior.txt
+README.md
+requirements.txt
+sample.wav
+setup.cfg
+setup.py
