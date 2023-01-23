@@ -1,4 +1,3 @@
-allosaurus/
 allosaurus.egg-info/
 build/
 dist/
@@ -7,7 +6,6 @@ FARSDAT-parent-c20/
 FARSDAT-parent-c50/
 FARSDAT-parent-c100/
 robatbeheshti-target/
-test/
 test-ntns/
 test-nts/
 test-target/
@@ -17,6 +15,7 @@ train-target/
 validation-ntns/
 validation-nts/
 validation-target/
+allosaurus/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -148,14 +147,16 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .idea/
-allosaurus/pretrained/*
 allosaurus.egg-info
 test_model/*
-LICENSE
 online_demo.png
 prior.txt
+sample.wav
+LICENSE
 README.md
 requirements.txt
-sample.wav
 setup.cfg
 setup.py
+test/test_model.py
+test/test_recognition.py
+wave2vecAPI.ipynb
