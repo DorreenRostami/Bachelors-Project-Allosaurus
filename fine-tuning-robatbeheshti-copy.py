@@ -6,9 +6,11 @@ from pydub import AudioSegment
 from pydub.utils import make_chunks
 import re
 
-def prepareDataSet(output_dir, output_allo_dir, output_wave_path, output_text_path, utt_str):
+def prepareDataSet(output_dir, output_allo_dir, utt_str):
     utt_id = 1
 
+    output_wave_path = os.path.join(output_dir,'wave')
+    output_text_path = os.path.join(output_dir,'text')
     output_wave = open(output_wave_path, 'w', encoding='utf-8')
     output_text = open(output_text_path, 'w', encoding='utf-8')
 
@@ -29,14 +31,8 @@ def prepareDataSet(output_dir, output_allo_dir, output_wave_path, output_text_pa
 if __name__ == '__main__':
     # output_dir = '.\\allosaurus-master\\robatbeheshti-target\\train'
     # output_allo_dir = '.\\robatbeheshti-target\\train'
-    # output_wave_path = '.\\allosaurus-master\\robatbeheshti-target\\train\\wave'
-    # output_text_path = '.\\allosaurus-master\\robatbeheshti-target\\train\\text'
-
-    # prepareDataSet(output_dir, output_allo_dir, output_wave_path, output_text_path, 'train ')
+    # prepareDataSet(output_dir, output_allo_dir, 'train ')
 
     output_dir = '.\\allosaurus-master\\robatbeheshti-target\\validate'
     output_allo_dir = '.\\robatbeheshti-target\\validate'
-    output_wave_path = '.\\allosaurus-master\\robatbeheshti-target\\validate\\wave'
-    output_text_path = '.\\allosaurus-master\\robatbeheshti-target\\validate\\text'
-
-    prepareDataSet(output_dir, output_allo_dir, output_wave_path, output_text_path, 'validate ')
+    prepareDataSet(output_dir, output_allo_dir, 'validate ')
