@@ -15,7 +15,7 @@ train-target/
 validation-ntns/
 validation-nts/
 validation-target/
-allosaurus/*
+allosaurus/pretrained/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
