@@ -17,6 +17,19 @@ validation-nts/
 validation-target/
 allosaurus/pretrained/*
 
+test-ntns-10dB/
+test-ntns-15dB/
+test-nts-10dB/
+test-nts-15dB/
+test-target-10dB/
+test-target-15dB/
+validation-ntns-10dB/
+validation-ntns-15dB/
+validation-nts-10dB/
+validation-nts-15dB/
+validation-target-10dB/
+validation-target-15dB/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
