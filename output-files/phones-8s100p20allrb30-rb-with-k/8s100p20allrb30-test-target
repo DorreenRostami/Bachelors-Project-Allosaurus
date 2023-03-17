@@ -1,0 +1,282 @@
+.\test-target\107_m_target_1.wav r 1.0 o 0.97 b 1.0 a 1.0 t 0.989 e 1.0 b 1.0 e 1.0 h 1.0 e 0.992 ʃ 1.0 t 1.0 i 1.0
+.\test-target\107_m_target_10.wav r 0.674 o 0.617 b 0.932 a 1.0 t 0.999 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 0.669
+.\test-target\107_m_target_11.wav r 0.869 o 1.0 b 0.999 a 1.0 t 0.715 e 1.0 b 0.58 e 0.953 h 0.864 e 0.993 ʃ 1.0 t 1.0 i 1.0
+.\test-target\107_m_target_12.wav r 1.0 o 0.89 b 0.652 a 0.749 t 1.0 e 0.937 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 0.966 i 1.0
+.\test-target\107_m_target_13.wav r 1.0 o 0.997 b 0.646 a 1.0 t 0.982 e 0.591 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 0.998
+.\test-target\107_m_target_14.wav r 1.0 o 1.0 b 0.733 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 0.941 i 1.0
+.\test-target\107_m_target_2.wav r 1.0 o 1.0 b 1.0 a 0.631 t 0.97 e 1.0 b 0.741 e 0.71 h 1.0 e 1.0 ʃ 0.99 t 1.0 i 1.0
+.\test-target\107_m_target_3.wav r 1.0 o 0.893 b 1.0 a 1.0 t 0.846 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 0.952 t 1.0 i 0.961
+.\test-target\107_m_target_4.wav r 1.0 o 0.563 b 1.0 a 0.894 t 0.911 e 1.0 b 1.0 e 1.0 h 0.698 e 1.0 ʃ 1.0 t 1.0 i 0.985
+.\test-target\107_m_target_5.wav r 1.0 o 0.975 b 1.0 a 1.0 t 1.0 e 1.0 b 0.987 e 1.0 h 1.0 e 0.992 ʃ 1.0 t 0.992 i 1.0
+.\test-target\107_m_target_6.wav r 0.993 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 0.662 i 0.635
+.\test-target\107_m_target_7.wav r 0.985 o 1.0 b 1.0 a 1.0 t 0.999 e 1.0 b 1.0 e 0.999 h 1.0 e 1.0 ʃ 1.0 t 0.528 i 0.71
+.\test-target\107_m_target_8.wav r 0.996 o 0.997 t 1.0 e 1.0 b 1.0 e 0.975 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\107_m_target_9.wav r 0.995 b 0.77 a 0.927 b 0.647 e 1.0 h 0.469 e 1.0 ʃ 1.0 t 0.986 i 0.913
+.\test-target\110_f_target_1.wav r 1.0 o 1.0 b 1.0 a 0.993 t 1.0 e 1.0 b 0.809 e 0.715 h 1.0 e 1.0 ʃ 0.95 t 1.0 i 1.0
+.\test-target\110_f_target_10.wav t 0.563 o 0.996 b 1.0 a 1.0 t 0.926 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\110_f_target_2.wav r 0.75 o 0.958 b 1.0 a 0.994 t 1.0 e 1.0 b 1.0 e 1.0 h 0.942 e 1.0 ʃ 1.0 t 1.0 i 0.992
+.\test-target\110_f_target_3.wav r 0.997 o 0.962 b 1.0 a 0.867 t 0.999 e 1.0 b 1.0 e 0.904 h 0.903 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\110_f_target_4.wav r 1.0 o 1.0 b 1.0 a 1.0 t 0.937 e 1.0 b 1.0 e 1.0 h 0.554 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\110_f_target_5.wav r 0.999 o 0.973 b 1.0 a 0.998 t 0.986 e 1.0 b 1.0 e 1.0 h 0.977 e 0.894 ʃ 1.0 t 0.581 i 0.989
+.\test-target\110_f_target_6.wav r 1.0 o 0.507 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 0.906 ʃ 1.0 t 1.0 i 1.0
+.\test-target\110_f_target_7.wav r 0.679 o 1.0 b 1.0 a 0.995 t 0.714 e 0.721 b 1.0 e 0.978 ʃ 1.0 t 1.0 i 1.0
+.\test-target\110_f_target_8.wav r 0.811 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 0.816 h 0.996 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\110_f_target_9.wav r 1.0 o 1.0 b 1.0 a 1.0 t 0.999 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\116_m_target_1.wav r 1.0 o 0.641 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 0.582 i 1.0
+.\test-target\116_m_target_10.wav r 1.0 o 1.0 b 0.999 a 1.0 t 0.752 e 1.0 b 1.0 e 1.0 h 0.807 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\116_m_target_2.wav r 0.998 o 0.618 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 0.968 e 1.0 ʃ 1.0 t 0.979 i 0.685
+.\test-target\116_m_target_3.wav r 0.996 o 0.999 b 1.0 a 1.0 t 0.999 e 1.0 b 1.0 e 1.0 h 0.867 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\116_m_target_4.wav r 0.814 o 0.833 b 1.0 a 1.0 t 0.853 e 1.0 b 1.0 e 1.0 h 0.958 e 0.947 ʃ 1.0 t 1.0 i 1.0
+.\test-target\116_m_target_5.wav r 0.992 o 0.94 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\116_m_target_6.wav r 1.0 o 1.0 b 1.0 a 1.0 t 0.535 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\116_m_target_7.wav r 0.997 o 0.99 b 1.0 a 1.0 t 0.925 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 0.601
+.\test-target\116_m_target_8.wav r 1.0 o 0.841 b 1.0 a 1.0 t 0.901 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\116_m_target_9.wav r 0.999 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 0.746 e 1.0 h 0.995 e 0.531 ʃ 1.0 t 1.0 i 0.955
+.\test-target\118_m_target_1.wav r 0.994 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 0.93 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 0.998
+.\test-target\118_m_target_10.wav r 0.999 o 0.922 b 1.0 a 1.0 t 1.0 e 0.978 b 1.0 e 1.0 ʃ 0.997 t 1.0 i 0.991
+.\test-target\118_m_target_2.wav r 0.993 o 1.0 b 1.0 a 1.0 t 0.998 e 1.0 b 0.945 e 0.804 h 0.613 e 1.0 ʃ 1.0 t 1.0 i 0.869
+.\test-target\118_m_target_3.wav r 1.0 o 1.0 b 0.994 a 0.595 t 0.984 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\118_m_target_4.wav r 0.868 o 0.96 b 1.0 a 1.0 t 0.998 e 1.0 b 1.0 e 1.0 h 0.995 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\118_m_target_5.wav r 0.997 o 0.726 b 1.0 a 1.0 t 1.0 e 1.0 b 0.95 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\118_m_target_6.wav r 1.0 o 1.0 b 0.643 a 0.862 t 0.989 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 0.999
+.\test-target\118_m_target_7.wav r 1.0 o 0.769 b 1.0 a 1.0 t 0.961 e 1.0 b 1.0 e 1.0 h 0.909 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\118_m_target_8.wav r 1.0 o 0.997 b 1.0 a 1.0 t 1.0 e 0.578 b 1.0 e 1.0 h 0.596 e 0.872 ʃ 1.0 t 1.0 i 1.0
+.\test-target\118_m_target_9.wav r 1.0 o 1.0 b 1.0 a 1.0 t 0.999 e 1.0 b 1.0 e 0.985 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 0.999
+.\test-target\124_f_target_1.wav r 1.0 o 1.0 b 1.0 a 1.0 t 0.999 e 1.0 b 1.0 e 1.0 h 0.617 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\124_f_target_2.wav r 0.995 o 1.0 b 0.954 a 0.987 t 0.998 e 1.0 b 1.0 e 1.0 h 0.84 e 0.565 ʃ 1.0 t 1.0 i 0.994
+.\test-target\124_f_target_3.wav r 0.999 o 0.999 b 1.0 a 1.0 t 0.594 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\124_f_target_4.wav r 1.0 o 1.0 b 1.0 a 0.728 t 0.641 e 1.0 b 0.709 e 1.0 h 0.659 e 1.0 ʃ 1.0 t 1.0 i 0.983
+.\test-target\124_f_target_5.wav r 0.971 b 0.998 a 0.923 t 1.0 e 1.0 b 0.918 e 0.842 h 0.999 e 1.0 ʃ 1.0 t 0.861 i 0.998
+.\test-target\124_f_target_6.wav r 1.0 o 1.0 b 1.0 a 1.0 t 0.985 e 1.0 b 1.0 e 0.997 ʃ 0.818 t 1.0 i 0.75
+.\test-target\124_f_target_7.wav r 0.994 o 1.0 b 0.659 a 1.0 t 0.819 e 1.0 b 0.894 e 1.0 h 0.629 e 0.999 ʃ 1.0 t 1.0 i 1.0
+.\test-target\124_f_target_8.wav r 1.0 o 1.0 b 1.0 a 0.964 t 1.0 e 1.0 b 1.0 e 0.831 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\124_f_target_9.wav r 1.0 o 1.0 b 1.0 a 0.915 t 1.0 e 1.0 b 1.0 e 0.995 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\126_m_target_1.wav r 1.0 o 1.0 b 1.0 a 0.961 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 0.994
+.\test-target\126_m_target_2.wav r 1.0 o 1.0 b 0.719 a 1.0 t 0.58 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 0.997
+.\test-target\126_m_target_3.wav r 1.0 o 0.955 b 0.937 a 1.0 t 1.0 e 1.0 b 0.667 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\126_m_target_4.wav r 1.0 o 0.55 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 0.805 i 0.675
+.\test-target\126_m_target_5.wav r 1.0 o 0.941 b 1.0 a 1.0 t 0.864 e 1.0 b 0.829 e 1.0 h 0.733 e 0.511 ʃ 0.745 t 0.968 i 0.946
+.\test-target\126_m_target_6.wav r 0.988 o 1.0 b 0.861 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 0.998 e 1.0 ʃ 1.0 t 1.0 i 0.598
+.\test-target\130_f_target_1.wav r 0.999 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 0.999 e 1.0 ʃ 1.0 t 1.0 i 0.934
+.\test-target\130_f_target_10.wav r 1.0 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 0.894 ʃ 1.0 t 1.0 i 1.0
+.\test-target\130_f_target_2.wav r 1.0 o 0.81 b 1.0 a 1.0 t 0.97 e 1.0 b 0.984 e 1.0 h 0.998 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\130_f_target_3.wav r 0.988 o 1.0 b 1.0 a 1.0 t 1.0 e 0.915 b 1.0 e 1.0 h 0.982 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\130_f_target_4.wav r 1.0 o 0.907 b 1.0 a 1.0 t 0.94 e 1.0 b 0.962 e 0.669 h 0.994 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\130_f_target_5.wav r 0.576 o 1.0 b 1.0 a 1.0 t 0.682 e 1.0 b 0.958 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 0.949
+.\test-target\130_f_target_6.wav o 0.988 b 0.998 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\130_f_target_7.wav r 0.995 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 0.715
+.\test-target\130_f_target_8.wav r 0.87 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 0.845
+.\test-target\130_f_target_9.wav r 1.0 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 0.95 e 1.0 ʃ 1.0 t 1.0 i 0.998
+.\test-target\132_f_target_1.wav r 0.712 o 0.998 b 0.999 a 1.0 t 0.997 e 0.989 ʃ 1.0 t 0.816 i 1.0
+.\test-target\132_f_target_10.wav r 0.999 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 0.982 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\132_f_target_2.wav r 0.93 o 1.0 b 0.999 a 0.983 b 0.977 e 1.0 h 0.888 e 0.574 ʃ 1.0 t 0.58 i 0.998
+.\test-target\132_f_target_3.wav r 0.985 o 0.997 b 0.798 a 0.999 t 0.986 e 1.0 ʃ 0.998 i 0.667
+.\test-target\132_f_target_4.wav r 0.875 o 0.999 b 0.808 a 0.981 t 0.928 e 0.999 ʃ 0.999 t 0.987 i 1.0
+.\test-target\132_f_target_5.wav r 0.819 o 0.992 b 1.0 a 0.999 t 0.735 e 0.998 h 0.997 e 1.0 ʃ 1.0 t 0.961 i 1.0
+.\test-target\132_f_target_6.wav r 0.972 o 1.0 b 1.0 a 1.0 t 0.927 b 0.651 e 1.0 h 0.825 ʃ 1.0 t 0.999 i 1.0
+.\test-target\132_f_target_7.wav r 0.999 o 1.0 b 1.0 a 1.0 t 0.93 e 1.0 b 0.687 e 1.0 h 0.999 e 1.0 ʃ 0.662 t 0.986 i 1.0
+.\test-target\132_f_target_8.wav r 0.747 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 h 0.908 e 0.987 ʃ 0.712 t 0.615 i 1.0
+.\test-target\132_f_target_9.wav r 1.0 o 0.851 b 1.0 a 0.819 t 0.998 e 0.984 b 0.999 e 0.517 h 0.958 e 1.0 ʃ 0.975 t 1.0 i 1.0
+.\test-target\13_f_target_1.wav r 0.999 o 1.0 b 0.827 a 0.871 t 0.963 e 1.0 b 0.91 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\13_f_target_10.wav r 1.0 o 1.0 b 1.0 a 0.998 t 1.0 e 1.0 b 1.0 e 0.926 h 0.77 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\13_f_target_2.wav r 0.627 o 0.536 b 1.0 a 1.0 t 0.999 e 1.0 b 1.0 e 1.0 h 0.545 e 1.0 ʃ 1.0 t 0.689 i 1.0
+.\test-target\13_f_target_3.wav r 1.0 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 0.652 i 0.999
+.\test-target\13_f_target_4.wav r 0.992 o 1.0 b 0.872 a 0.686 t 1.0 e 1.0 b 1.0 e 1.0 h 0.999 e 0.682 ʃ 0.928 t 1.0 i 1.0
+.\test-target\13_f_target_5.wav r 1.0 o 1.0 b 1.0 a 0.806 t 0.572 e 1.0 b 1.0 e 1.0 h 0.987 e 1.0 ʃ 1.0 t 1.0 i 0.916
+.\test-target\13_f_target_6.wav r 1.0 o 0.989 b 1.0 a 1.0 t 0.93 b 0.528 e 0.999 b 0.899 e 0.999 h 0.986 e 0.998 ʃ 1.0 t 1.0 i 0.92
+.\test-target\13_f_target_7.wav r 0.508 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 0.65 h 0.976 e 0.981 ʃ 1.0 t 1.0 i 1.0
+.\test-target\13_f_target_8.wav r 1.0 o 0.381 b 1.0 a 1.0 t 0.802 e 1.0 b 1.0 e 0.498 h 0.995 e 0.92 ʃ 1.0 t 1.0 i 0.618
+.\test-target\13_f_target_9.wav r 0.999 o 0.94 b 0.82 a 1.0 t 0.965 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\147_f_target_1.wav r 0.931 o 1.0 b 0.786 a 1.0 t 0.916 e 1.0 b 1.0 e 0.998 h 0.64 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\147_f_target_10.wav r 0.902 o 0.589 b 1.0 a 0.832 t 1.0 e 1.0 b 0.922 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\147_f_target_2.wav r 0.942 o 1.0 b 1.0 a 1.0 t 0.85 e 0.629 b 1.0 e 1.0 h 0.976 e 0.58 ʃ 1.0 t 1.0 i 0.922
+.\test-target\147_f_target_3.wav r 0.96 o 1.0 b 1.0 a 0.41 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 0.936 i 1.0
+.\test-target\147_f_target_4.wav r 1.0 o 1.0 b 1.0 a 0.857 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\147_f_target_5.wav r 1.0 o 1.0 b 1.0 a 0.995 t 1.0 e 1.0 b 0.816 e 0.744 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 0.921
+.\test-target\147_f_target_6.wav r 1.0 o 1.0 b 1.0 a 0.728 t 0.989 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\147_f_target_7.wav r 1.0 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 0.748
+.\test-target\147_f_target_8.wav r 0.857 o 1.0 b 0.883 a 1.0 t 1.0 e 0.998 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\147_f_target_9.wav r 1.0 o 0.91 b 1.0 a 1.0 t 1.0 e 1.0 b 0.983 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 0.985 i 0.561
+.\test-target\148_m_target_1.wav r 0.755 o 1.0 b 1.0 a 1.0 t 0.999 e 1.0 b 0.991 e 0.962 h 1.0 e 0.638 ʃ 1.0 t 1.0 i 0.982
+.\test-target\148_m_target_10.wav r 0.833 o 0.608 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\148_m_target_2.wav r 0.798 o 0.953 b 1.0 a 0.513 t 1.0 e 0.999 b 0.999 e 0.995 h 0.84 e 0.927 ʃ 0.809 t 0.949 i 0.994
+.\test-target\148_m_target_3.wav r 1.0 o 1.0 b 1.0 a 1.0 t 0.982 e 1.0 b 1.0 e 1.0 h 0.804 e 1.0 ʃ 0.629 t 1.0 i 0.546
+.\test-target\148_m_target_4.wav r 0.995 o 1.0 b 1.0 a 1.0 t 0.995 e 1.0 b 1.0 e 1.0 h 0.676 e 1.0 ʃ 1.0 t 1.0 i 0.986
+.\test-target\148_m_target_5.wav r 0.996 o 0.526 b 1.0 a 0.582 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 0.999
+.\test-target\148_m_target_6.wav r 1.0 o 1.0 b 1.0 a 1.0 t 0.872 e 0.994 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\148_m_target_7.wav r 1.0 o 0.999 b 1.0 a 1.0 t 0.916 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\148_m_target_8.wav r 1.0 o 0.543 b 1.0 a 1.0 t 1.0 e 1.0 b 0.855 h 0.725 e 0.721 ʃ 1.0 t 0.787 i 1.0
+.\test-target\148_m_target_9.wav r 0.928 o 1.0 b 1.0 a 0.989 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\155_f_target_1.wav r 0.994 o 1.0 b 0.727 a 0.997 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 0.694 ʃ 1.0 t 0.748 i 1.0
+.\test-target\155_f_target_10.wav r 1.0 o 1.0 b 0.999 a 1.0 t 1.0 e 0.999 b 1.0 e 0.53 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 0.984
+.\test-target\155_f_target_2.wav r 0.861 o 1.0 b 1.0 a 1.0 t 0.992 e 1.0 b 1.0 e 0.674 h 0.982 e 1.0 ʃ 1.0 t 0.876 i 1.0
+.\test-target\155_f_target_3.wav r 1.0 o 1.0 b 1.0 a 1.0 t 0.829 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\155_f_target_4.wav r 1.0 o 1.0 b 1.0 a 0.949 t 1.0 e 1.0 b 0.944 e 1.0 h 0.883 e 0.999 ʃ 1.0 t 0.865 i 1.0
+.\test-target\155_f_target_5.wav r 1.0 o 1.0 b 0.59 a 1.0 t 0.769 e 0.995 b 0.868 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 0.997
+.\test-target\155_f_target_6.wav r 0.874 o 1.0 b 1.0 a 0.826 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 0.749 i 1.0
+.\test-target\155_f_target_7.wav r 1.0 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 0.505
+.\test-target\155_f_target_8.wav r 0.999 o 1.0 b 0.567 a 0.979 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\155_f_target_9.wav r 0.802 o 1.0 b 1.0 a 1.0 t 0.951 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\161_f_target_1.wav r 1.0 o 0.526 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 0.986 h 0.966 e 1.0 ʃ 1.0 t 0.776 i 1.0
+.\test-target\161_f_target_10.wav r 0.997 o 0.702 b 1.0 a 0.538 t 1.0 e 0.994 b 1.0 e 1.0 h 1.0 e 0.765 ʃ 1.0 t 0.961 i 1.0
+.\test-target\161_f_target_2.wav r 1.0 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\161_f_target_3.wav r 1.0 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 0.468 ʃ 1.0 t 1.0 i 0.778
+.\test-target\161_f_target_4.wav r 1.0 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 0.635 ʃ 1.0 t 0.973 i 1.0
+.\test-target\161_f_target_5.wav r 0.943 o 1.0 b 1.0 a 0.761 t 0.699 e 1.0 b 1.0 e 1.0 h 0.923 e 1.0 ʃ 1.0 t 0.902 i 1.0
+.\test-target\161_f_target_6.wav r 0.55 o 1.0 b 1.0 a 1.0 t 1.0 e 0.504 b 1.0 e 0.844 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 0.907
+.\test-target\161_f_target_7.wav r 1.0 o 0.98 b 0.854 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 0.999 e 1.0 ʃ 1.0 t 0.831 i 0.999
+.\test-target\161_f_target_8.wav r 0.995 o 0.997 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\161_f_target_9.wav r 1.0 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 0.989 h 1.0 e 1.0 ʃ 1.0 t 0.996 i 1.0
+.\test-target\163_f_target_1.wav r 0.931 o 0.999 b 1.0 a 1.0 t 0.815 e 1.0 b 1.0 e 1.0 h 0.549 e 1.0 ʃ 1.0 t 0.972 i 1.0
+.\test-target\163_f_target_10.wav r 1.0 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 0.999 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\163_f_target_2.wav r 1.0 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 0.909 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 0.687
+.\test-target\163_f_target_3.wav r 0.723 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 0.981 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\163_f_target_4.wav r 1.0 o 0.995 b 1.0 a 1.0 t 0.946 e 1.0 b 0.945 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\163_f_target_5.wav r 1.0 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 0.575 t 1.0 i 1.0
+.\test-target\163_f_target_6.wav r 1.0 o 1.0 b 1.0 a 0.812 t 1.0 e 1.0 b 0.941 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\163_f_target_7.wav r 1.0 o 1.0 b 1.0 a 0.999 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\163_f_target_8.wav r 0.583 o 1.0 b 1.0 a 1.0 t 1.0 e 0.97 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 0.605
+.\test-target\163_f_target_9.wav r 0.98 o 0.999 b 1.0 a 0.515 t 0.999 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 0.993
+.\test-target\164_f_target_1.wav r 1.0 o 1.0 b 0.951 a 0.997 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\164_f_target_10.wav r 1.0 o 0.987 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\164_f_target_2.wav r 1.0 o 1.0 b 0.94 a 1.0 t 0.988 e 1.0 b 1.0 e 1.0 h 0.975 e 1.0 ʃ 1.0 t 1.0 i 0.635
+.\test-target\164_f_target_3.wav r 1.0 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 0.636 e 1.0 h 0.609 e 0.72 ʃ 1.0 t 1.0 i 1.0
+.\test-target\164_f_target_4.wav r 0.951 o 0.681 b 1.0 a 1.0 t 1.0 e 1.0 b 0.769 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 0.957
+.\test-target\164_f_target_5.wav r 1.0 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 0.993 ʃ 1.0 t 1.0 i 1.0
+.\test-target\164_f_target_6.wav r 1.0 o 0.885 b 0.854 a 1.0 t 0.643 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 0.981
+.\test-target\164_f_target_7.wav r 1.0 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 0.999
+.\test-target\164_f_target_8.wav r 1.0 o 1.0 b 1.0 a 1.0 t 0.956 e 1.0 b 1.0 e 1.0 h 1.0 e 0.95 ʃ 1.0 t 1.0 i 0.983
+.\test-target\164_f_target_9.wav r 1.0 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 0.999 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\167_f_target_1.wav r 1.0 o 1.0 b 0.891 a 1.0 t 0.995 e 1.0 b 0.864 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\167_f_target_10.wav r 1.0 o 1.0 b 0.876 a 1.0 t 0.604 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 0.91 t 1.0 i 1.0
+.\test-target\167_f_target_2.wav r 1.0 o 1.0 b 1.0 a 0.8 t 1.0 e 1.0 b 1.0 e 0.895 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\167_f_target_3.wav r 0.999 o 0.74 b 1.0 a 1.0 t 0.988 e 0.995 b 1.0 e 0.954 h 1.0 e 1.0 ʃ 1.0 t 1.0 e 0.873
+.\test-target\167_f_target_4.wav r 0.986 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 0.936 i 1.0
+.\test-target\167_f_target_5.wav r 1.0 o 1.0 b 1.0 a 1.0 t 0.947 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 0.853 i 1.0
+.\test-target\167_f_target_6.wav r 0.927 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 0.613 e 1.0 h 0.814 e 1.0 ʃ 1.0 t 0.884 i 0.996
+.\test-target\167_f_target_7.wav r 0.542 o 1.0 b 1.0 a 0.894 t 1.0 e 1.0 b 1.0 e 0.575 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\167_f_target_8.wav r 0.999 o 0.926 b 0.999 a 0.662 t 0.979 e 1.0 b 1.0 e 1.0 h 0.932 e 0.836 ʃ 1.0 t 1.0 i 1.0
+.\test-target\167_f_target_9.wav r 1.0 o 0.995 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\178_f_target_1.wav r 1.0 o 1.0 b 1.0 a 1.0 t 0.965 e 1.0 b 1.0 e 0.961 h 1.0 e 1.0 ʃ 0.794 t 0.661 i 1.0
+.\test-target\178_f_target_10.wav r 1.0 o 1.0 b 1.0 a 1.0 t 0.942 e 1.0 b 1.0 e 0.976 h 0.996 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\178_f_target_2.wav r 0.945 o 1.0 b 1.0 a 0.511 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 0.708
+.\test-target\178_f_target_3.wav r 1.0 o 0.882 b 0.936 a 1.0 t 1.0 e 1.0 b 0.548 e 0.988 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 0.949
+.\test-target\178_f_target_4.wav r 1.0 o 1.0 b 1.0 a 0.996 t 0.969 e 1.0 b 0.607 e 0.632 h 0.93 e 1.0 ʃ 0.554 t 1.0 i 1.0
+.\test-target\178_f_target_5.wav r 1.0 o 1.0 b 1.0 a 0.923 e 0.994 b 1.0 e 0.991 h 1.0 e 1.0 ʃ 1.0 t 0.991 i 0.885
+.\test-target\178_f_target_6.wav r 0.945 o 1.0 b 0.872 a 1.0 t 0.996 e 1.0 b 1.0 e 1.0 h 0.99 e 0.878 ʃ 1.0 t 1.0 i 1.0
+.\test-target\178_f_target_7.wav r 0.997 o 0.828 b 0.697 a 1.0 t 0.808 e 1.0 b 1.0 e 1.0 h 0.739 e 1.0 ʃ 1.0 t 1.0 i 0.986
+.\test-target\178_f_target_8.wav r 1.0 o 0.547 b 1.0 a 1.0 t 0.95 e 1.0 b 1.0 e 1.0 h 1.0 e 0.725 ʃ 1.0 t 1.0 i 0.628
+.\test-target\178_f_target_9.wav r 1.0 o 0.996 b 0.94 a 0.998 t 0.648 e 1.0 b 1.0 e 0.838 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\185_m_target_1.wav r 0.999 o 1.0 b 0.831 a 1.0 t 1.0 e 1.0 b 1.0 e 0.865 h 0.644 e 1.0 ʃ 1.0 t 1.0 i 0.618
+.\test-target\185_m_target_10.wav r 1.0 o 1.0 b 1.0 a 1.0 t 0.964 e 1.0 b 1.0 e 0.975 h 0.951 e 1.0 ʃ 1.0 t 1.0 i 0.563
+.\test-target\185_m_target_2.wav r 1.0 o 0.989 b 1.0 a 1.0 t 0.99 e 1.0 b 1.0 e 1.0 h 0.999 e 1.0 ʃ 0.534 t 1.0 i 1.0
+.\test-target\185_m_target_3.wav r 0.554 o 1.0 b 1.0 a 1.0 t 1.0 e 0.859 b 1.0 e 0.395 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\185_m_target_4.wav r 1.0 o 1.0 b 0.769 a 0.967 t 0.986 e 1.0 b 0.747 e 1.0 h 0.908 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\185_m_target_5.wav r 0.935 o 0.999 b 1.0 a 1.0 t 1.0 e 1.0 b 0.93 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\185_m_target_6.wav r 0.529 o 1.0 b 1.0 a 1.0 t 0.946 e 1.0 b 0.999 e 0.999 h 1.0 e 1.0 ʃ 0.997 t 1.0 i 1.0
+.\test-target\185_m_target_7.wav r 1.0 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 0.999 e 0.975 h 1.0 e 0.992 ʃ 1.0 t 1.0 i 1.0
+.\test-target\185_m_target_8.wav r 0.998 o 0.999 b 1.0 a 1.0 t 0.872 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\185_m_target_9.wav r 1.0 o 1.0 b 1.0 a 0.965 t 1.0 e 1.0 b 0.861 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\38_f_target_1.wav r 0.914 o 1.0 b 0.858 a 1.0 t 0.873 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 0.817 i 0.99
+.\test-target\38_f_target_10.wav r 1.0 o 0.571 b 1.0 a 1.0 t 0.904 e 0.998 b 1.0 e 1.0 h 0.991 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\38_f_target_11.wav r 0.967 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 0.999 t 1.0 i 0.999
+.\test-target\38_f_target_12.wav b 0.504 o 0.61 r 0.999 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 0.998 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 0.998
+.\test-target\38_f_target_13.wav r 0.996 o 0.737 b 0.896 a 1.0 t 1.0 e 0.997 b 1.0 e 1.0 h 0.994 e 0.998 t 0.97 i 0.997
+.\test-target\38_f_target_14.wav r 0.983 o 0.976 b 1.0 a 0.976 t 0.989 e 1.0 b 1.0 e 1.0 h 0.868 e 1.0 ʃ 1.0 t 1.0 i 0.858
+.\test-target\38_f_target_2.wav r 0.716 o 0.351 b 1.0 a 1.0 t 0.988 e 1.0 b 1.0 e 1.0 h 0.501 e 1.0 ʃ 0.998 t 1.0 i 1.0
+.\test-target\38_f_target_3.wav r 0.976 o 1.0 b 1.0 a 1.0 t 0.998 e 0.999 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 0.991 t 1.0 i 0.838
+.\test-target\38_f_target_4.wav r 0.971 o 0.512 b 0.957 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 0.982 i 0.959
+.\test-target\38_f_target_5.wav r 0.773 o 1.0 b 0.849 a 1.0 t 0.944 e 1.0 b 1.0 e 1.0 h 1.0 e 0.998 ʃ 0.514 t 0.662
+.\test-target\38_f_target_6.wav r 0.666 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 0.83 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 0.998
+.\test-target\38_f_target_7.wav r 1.0 o 0.626 b 1.0 a 0.554 t 0.938 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 0.997 t 0.724 i 1.0
+.\test-target\38_f_target_8.wav r 0.68 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 0.999 e 1.0 ʃ 0.982 t 0.987 i 1.0
+.\test-target\38_f_target_9.wav r 1.0 o 0.494 b 0.883 a 1.0 t 1.0 e 0.999 b 1.0 e 1.0 h 0.771 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\3_f_target_1.wav r 1.0 o 0.984 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 0.938 e 1.0 ʃ 0.995 t 1.0 i 0.86
+.\test-target\3_f_target_10.wav r 0.578 o 1.0 b 1.0 a 0.988 t 1.0 e 1.0 b 1.0 e 1.0 h 0.921 e 1.0 ʃ 0.995 t 1.0 i 0.999
+.\test-target\3_f_target_2.wav r 1.0 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\3_f_target_3.wav r 1.0 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 0.859 e 0.996 ʃ 1.0 t 1.0 i 0.998
+.\test-target\3_f_target_4.wav r 0.999 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 0.582 h 0.998 e 0.999 ʃ 1.0 t 0.906 i 1.0
+.\test-target\3_f_target_5.wav r 1.0 o 1.0 b 1.0 a 1.0 t 0.958 e 1.0 b 1.0 e 0.999 ʃ 1.0 t 0.868 i 1.0
+.\test-target\3_f_target_6.wav r 1.0 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 0.586 h 0.795 e 1.0 ʃ 1.0 t 0.823 i 1.0
+.\test-target\3_f_target_7.wav r 1.0 o 1.0 b 1.0 a 1.0 t 0.989 e 1.0 b 0.765 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 0.988
+.\test-target\3_f_target_8.wav r 1.0 o 0.621 b 1.0 a 1.0 t 0.995 e 1.0 b 1.0 e 1.0 h 0.614 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\3_f_target_9.wav r 1.0 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 0.998 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\64_m_target_1.wav r 1.0 o 0.577 b 1.0 a 1.0 t 0.942 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 0.587 t 1.0 i 1.0
+.\test-target\64_m_target_2.wav r 0.946 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 0.835 e 0.572 h 0.706 e 0.992 ʃ 1.0 t 1.0 i 0.583
+.\test-target\64_m_target_3.wav r 0.727 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 0.67 h 1.0 e 1.0 ʃ 1.0 t 0.595 i 0.98
+.\test-target\64_m_target_4.wav r 0.998 o 0.693 b 0.556 a 1.0 t 1.0 e 1.0 b 0.7 e 1.0 h 0.906 e 1.0 ʃ 1.0 t 0.855 i 1.0
+.\test-target\64_m_target_5.wav r 0.951 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 0.81 t 1.0 i 0.999
+.\test-target\64_m_target_6.wav r 0.977 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 0.824 t 1.0 i 1.0
+.\test-target\6_f_target_1.wav r 0.927 o 0.997 b 1.0 a 0.999 t 0.921 e 1.0 b 1.0 e 1.0 h 0.966 e 0.999 t 0.999 i 1.0
+.\test-target\6_f_target_10.wav r 1.0 o 0.746 b 0.75 a 1.0 t 0.977 e 1.0 i 0.996
+.\test-target\6_f_target_2.wav r 0.779 o 0.981 b 0.997 a 0.573 t 0.623 e 1.0 b 1.0 e 1.0 h 1.0 e 0.966 t 0.993 i 1.0
+.\test-target\6_f_target_3.wav r 0.992 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 0.985 i 0.996
+.\test-target\6_f_target_4.wav r 1.0 o 1.0 b 1.0 a 0.999 t 1.0 e 0.743 b 1.0 e 1.0 h 0.995 e 0.995 ʃ 0.98 t 1.0 i 1.0
+.\test-target\6_f_target_5.wav b 0.844 o 0.457 t 0.63 e 0.998 b 1.0 e 1.0 h 0.988 e 1.0 t 0.999 i 1.0
+.\test-target\6_f_target_6.wav r 0.998 o 0.996 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 t 0.982 i 1.0
+.\test-target\6_f_target_7.wav r 0.941 o 0.869 b 1.0 a 0.983 t 0.985 e 0.999 b 0.753 e 1.0 h 0.926 e 0.985 ʃ 0.643 t 0.999 i 0.998
+.\test-target\6_f_target_8.wav r 0.999 o 0.785 b 0.652 a 1.0 t 1.0 e 1.0 b 0.997 e 1.0 h 1.0 e 1.0 ʃ 0.943 t 1.0 i 1.0
+.\test-target\6_f_target_9.wav r 0.732 o 1.0 b 0.996 a 1.0 t 0.973 e 1.0 b 1.0 e 1.0 h 0.916 e 1.0 ʃ 0.558 t 1.0 i 1.0
+.\test-target\74_f_target_1.wav r 0.987 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 0.583 e 0.988 ʃ 1.0 t 1.0 i 1.0
+.\test-target\74_f_target_10.wav o 0.775 b 0.997 a 1.0 t 0.988 e 1.0 b 1.0 e 1.0 h 1.0 e 0.833 ʃ 1.0 t 1.0 i 1.0
+.\test-target\74_f_target_11.wav r 0.981 o 0.997 b 1.0 a 1.0 t 0.994 e 1.0 b 1.0 e 0.537 h 0.996 e 1.0 ʃ 1.0 t 1.0 i 0.794
+.\test-target\74_f_target_12.wav r 0.994 a 0.919 t 1.0 e 1.0 b 0.999 e 1.0 h 0.972 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\74_f_target_2.wav r 0.983 o 0.998 b 1.0 a 1.0 b 0.826 a 0.408 t 0.998 e 1.0 b 1.0 e 0.902 h 0.976 e 1.0 ʃ 1.0 t 0.807
+.\test-target\74_f_target_3.wav r 0.997 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 0.903 e 0.989 ʃ 0.712 t 1.0 i 1.0
+.\test-target\74_f_target_4.wav r 1.0 o 0.524 b 1.0 a 0.982 t 1.0 e 1.0 b 1.0 e 1.0 h 0.688 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\74_f_target_5.wav r 0.992 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 0.834 ʃ 1.0 t 1.0 i 1.0
+.\test-target\74_f_target_6.wav r 1.0 o 1.0 b 0.992 a 1.0 t 0.573 e 1.0 b 1.0 e 0.512 h 1.0 e 1.0 ʃ 1.0 t 0.994 i 1.0
+.\test-target\74_f_target_7.wav r 1.0 o 0.998 b 1.0 a 1.0 t 1.0 e 1.0 b 0.995 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\74_f_target_8.wav r 1.0 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 0.992 t 1.0 i 0.95
+.\test-target\74_f_target_9.wav b 0.999 a 1.0 t 1.0 e 1.0 b 1.0 e 0.369 h 0.995 e 1.0 ʃ 1.0 t 0.645 i 1.0
+.\test-target\77_f_target_1.wav r 1.0 o 0.883 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 0.987 t 1.0 i 0.999
+.\test-target\77_f_target_10.wav r 1.0 o 1.0 b 1.0 a 1.0 t 1.0 e 0.55 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 0.902
+.\test-target\77_f_target_11.wav r 1.0 o 0.458 b 1.0 a 1.0 t 0.999 e 1.0 b 1.0 e 0.568 h 0.989 e 1.0 ʃ 1.0 t 1.0 i 0.987
+.\test-target\77_f_target_12.wav r 0.512 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 0.997 h 0.833 e 0.727 ʃ 1.0 t 0.939 i 0.659
+.\test-target\77_f_target_2.wav r 1.0 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\77_f_target_3.wav r 0.793 o 0.826 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\77_f_target_4.wav r 0.779 o 1.0 b 1.0 a 0.695 t 1.0 e 1.0 b 1.0 e 1.0 h 0.747 e 1.0 ʃ 1.0 t 1.0 i 0.699
+.\test-target\77_f_target_5.wav r 0.938 o 0.587 b 1.0 a 1.0 t 0.961 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\77_f_target_6.wav r 0.699 o 1.0 b 0.793 a 0.962 t 1.0 e 0.997 b 1.0 e 1.0 b 0.882 e 1.0 h 1.0 e 0.957 ʃ 1.0 t 0.629 i 1.0
+.\test-target\77_f_target_7.wav r 0.928 o 1.0 b 0.981 a 1.0 t 1.0 e 1.0 b 0.831 e 1.0 h 1.0 e 1.0 ʃ 0.994 t 1.0 i 1.0
+.\test-target\77_f_target_8.wav r 1.0 o 0.995 b 1.0 a 1.0 t 0.979 e 0.595 b 0.966 e 1.0 h 1.0 e 1.0 ʃ 0.91 t 0.989 i 1.0
+.\test-target\77_f_target_9.wav r 1.0 o 1.0 b 0.846 a 1.0 t 1.0 e 1.0 b 1.0 e 0.608 h 0.839 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\82_f_target_1.wav r 0.912 o 0.987 b 1.0 a 0.769 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 0.728
+.\test-target\82_f_target_10.wav r 0.999 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 0.816 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\82_f_target_2.wav r 1.0 o 1.0 b 1.0 a 0.917 t 1.0 e 1.0 b 1.0 e 1.0 h 0.882 e 1.0 ʃ 1.0 t 0.987 i 1.0
+.\test-target\82_f_target_3.wav r 0.749 o 1.0 b 1.0 a 0.894 t 1.0 e 1.0 b 1.0 e 0.994 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\82_f_target_4.wav r 0.769 o 0.994 b 1.0 a 0.999 t 1.0 e 1.0 b 1.0 e 1.0 h 0.995 e 1.0 ʃ 1.0 t 1.0 i 0.577
+.\test-target\82_f_target_5.wav r 0.932 o 0.908 b 0.653 a 1.0 t 1.0 e 1.0 b 0.942 e 1.0 h 0.963 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\82_f_target_6.wav r 1.0 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 0.997 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\82_f_target_7.wav r 0.999 o 0.738 b 1.0 a 0.685 t 1.0 e 1.0 b 1.0 e 0.985 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\82_f_target_8.wav r 1.0 o 1.0 b 1.0 a 0.976 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 0.998 t 1.0 i 0.585
+.\test-target\82_f_target_9.wav r 1.0 o 1.0 b 1.0 a 1.0 t 1.0 e 0.999 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 0.514
+.\test-target\86_f_target_1.wav r 0.838 o 1.0 b 0.992 a 0.535 t 1.0 e 0.999 b 0.994 e 0.614 h 0.859 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\86_f_target_10.wav r 0.999 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 0.963 e 1.0 h 1.0 e 1.0 ʃ 0.539 t 1.0 i 0.999
+.\test-target\86_f_target_2.wav r 0.815 o 1.0 b 1.0 a 0.936 t 0.979 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 0.991
+.\test-target\86_f_target_3.wav r 1.0 o 1.0 b 1.0 a 0.803 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\86_f_target_4.wav r 0.642 o 1.0 b 1.0 a 1.0 t 0.715 e 0.999 t 0.916 e 0.515 h 0.776 e 0.983 ʃ 0.975 t 0.844 i 0.998
+.\test-target\86_f_target_5.wav r 1.0 o 1.0 b 1.0 a 1.0 t 0.998 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 0.994 t 0.913 i 0.606
+.\test-target\86_f_target_6.wav r 1.0 o 0.812 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\86_f_target_7.wav r 1.0 o 1.0 b 0.988 a 0.995 t 1.0 e 0.748 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 0.995 i 1.0
+.\test-target\86_f_target_8.wav r 1.0 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 0.569 t 0.58 i 1.0
+.\test-target\86_f_target_9.wav r 0.848 o 1.0 b 0.782 a 0.397 t 1.0 e 1.0 b 0.966 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 0.997 i 1.0
+.\test-target\91_m_target_1.wav r 1.0 o 1.0 b 0.655 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 0.923 e 0.974 ʃ 1.0 t 1.0 i 0.969
+.\test-target\91_m_target_2.wav r 1.0 o 1.0 b 1.0 a 0.854 t 1.0 e 1.0 b 1.0 e 1.0 h 0.907 e 0.495 ʃ 1.0 t 0.901 i 1.0
+.\test-target\91_m_target_3.wav r 0.987 o 1.0 b 1.0 a 0.711 t 1.0 e 1.0 b 1.0 e 1.0 h 0.999 e 1.0 ʃ 1.0 t 0.849 i 0.869
+.\test-target\91_m_target_4.wav r 1.0 o 0.998 b 1.0 a 1.0 t 0.842 e 1.0 b 1.0 e 1.0 h 0.975 e 0.999 ʃ 0.997 t 1.0 i 1.0
+.\test-target\91_m_target_5.wav r 0.917 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\91_m_target_6.wav r 1.0 o 0.672 b 0.999 a 0.998 t 0.996 e 1.0 b 1.0 e 0.905 h 0.998 e 1.0 ʃ 0.887 t 1.0 i 1.0
+.\test-target\91_m_target_7.wav r 0.761 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\91_m_target_8.wav r 0.998 o 0.999 b 0.999 a 0.716 t 1.0 e 0.998 b 1.0 e 1.0 ʃ 0.917 e 0.866 t 1.0 i 1.0
+.\test-target\91_m_target_9.wav r 0.976 o 0.999 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 0.984 ʃ 1.0 t 1.0 i 0.975
+.\test-target\98_m_target_1.wav r 0.879 o 0.902 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 0.761 e 1.0 ʃ 1.0 t 1.0 i 0.998
+.\test-target\98_m_target_10.wav r 1.0 o 1.0 b 1.0 a 1.0 t 1.0 e 0.619 b 1.0 e 1.0 h 1.0 e 0.99 ʃ 0.999 t 1.0 i 1.0
+.\test-target\98_m_target_2.wav r 0.994 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 0.999 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\98_m_target_3.wav r 1.0 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 0.757 e 1.0 h 1.0 e 0.833 ʃ 1.0 t 1.0 i 1.0
+.\test-target\98_m_target_4.wav r 1.0 o 1.0 b 1.0 a 1.0 t 0.828 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 0.942
+.\test-target\98_m_target_5.wav r 1.0 o 1.0 b 1.0 a 1.0 t 0.586 e 1.0 b 0.903 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 0.66
+.\test-target\98_m_target_6.wav r 1.0 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 0.982
+.\test-target\98_m_target_7.wav r 1.0 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 0.577 t 1.0 i 0.973
+.\test-target\98_m_target_8.wav r 0.999 o 0.994 b 1.0 a 1.0 t 1.0 e 0.615 b 1.0 e 0.871 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\test-target\98_m_target_9.wav r 0.997 o 1.0 b 1.0 a 1.0 t 0.998 e 1.0 b 1.0 e 1.0 h 0.995 e 1.0 ʃ 1.0 t 0.573 i 0.997

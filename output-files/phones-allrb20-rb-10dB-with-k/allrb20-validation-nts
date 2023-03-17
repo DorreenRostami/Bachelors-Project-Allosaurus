@@ -1,0 +1,323 @@
+.\validation-nts-10dB\100_f_nts_1.wav r 1.0 o 1.0 b 1.0 a 0.999 t 0.999 e 0.998 k 0.645 a 0.98 t 1.0 e 0.994 b 0.746 e 0.905 h 0.462 i 0.98
+.\validation-nts-10dB\100_f_nts_10.wav b 1.0 e 1.0 h 0.712 e 1.0 ʃ 1.0 t 1.0 i 0.933 b 0.953 i 0.982 b 0.999 a 0.996
+.\validation-nts-10dB\100_f_nts_11.wav b 1.0 e 1.0 h 0.995 e 1.0 ʃ 1.0 t 0.935 e 0.909 r 0.999 o 1.0 b 1.0 a 1.0 t 1.0 b 0.913 a 0.998
+.\validation-nts-10dB\100_f_nts_2.wav r 1.0 o 1.0 b 1.0 a 1.0 t 0.94 e 1.0 b 0.464 ʃ 0.511 m 0.872 e 0.92
+.\validation-nts-10dB\100_f_nts_3.wav r 1.0 o 0.998 b 1.0 a 0.999 t 0.996 e 0.973 b 0.766 e 0.458 ʃ 0.999 t 0.612 e 0.909
+.\validation-nts-10dB\100_f_nts_4.wav r 1.0 o 1.0 b 0.997 a 0.985 t 0.996 e 0.994 t 0.705 e 0.999 t 0.787 i 0.669 ɒ 0.809
+.\validation-nts-10dB\100_f_nts_5.wav r 1.0 o 1.0 b 0.999 a 0.996 t 0.993 e 0.99 t 0.56 o 0.997 t 0.946 e 0.769
+.\validation-nts-10dB\100_f_nts_6.wav r 0.811 a 0.962 t 0.505 e 1.0 ʃ 0.962 t 0.962 o 0.975 e 0.82 b 1.0 e 1.0 h 0.993 e 0.963 ʃ 0.992
+.\validation-nts-10dB\100_f_nts_7.wav r 0.941 o 0.989 b 0.999 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 0.999
+.\validation-nts-10dB\100_f_nts_8.wav r 1.0 o 0.997 t 0.961 e 0.974 b 1.0 e 0.976 h 0.534 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\validation-nts-10dB\100_f_nts_9.wav ʃ 0.414 a 0.8 e 0.821 b 1.0 e 1.0 h 0.999 e 0.97 ʃ 1.0 t 0.998 i 0.905
+.\validation-nts-10dB\102_f_nts_1.wav r 0.525 o 1.0 b 1.0 a 0.991 t 0.986 e 0.993 t 0.914 b 0.758 a 0.637 t 0.996 e 0.821 b 0.993 a 0.722 t 0.962 i 0.916
+.\validation-nts-10dB\102_f_nts_10.wav b 1.0 e 0.444 h 0.659 e 1.0 ʃ 1.0 t 0.876 e 0.975 i 0.921 b 1.0 a 0.701
+.\validation-nts-10dB\102_f_nts_2.wav r 0.82 o 1.0 b 1.0 a 0.998 t 0.764 e 1.0 t 0.569 m 0.415 ʃ 0.553 b 0.628 e 0.555
+.\validation-nts-10dB\102_f_nts_3.wav r 0.725 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 b 0.59 a 0.999 ʃ 0.821 b 0.811 e 0.521
+.\validation-nts-10dB\102_f_nts_4.wav r 0.999 o 0.997 b 0.993 a 0.983 ʃ 0.999 t 0.588 e 0.999 t 0.927 e 0.534 b 0.886 e 0.999 t 0.992 r 0.603 a 0.985
+.\validation-nts-10dB\102_f_nts_5.wav r 1.0 o 1.0 b 0.999 a 1.0 t 1.0 e 0.999 r 0.832 o 0.996 x 0.759 a 0.927 t 0.488 e 0.992 h 0.96 i 0.696
+.\validation-nts-10dB\102_f_nts_6.wav r 0.926 o 0.583 n 0.571 e 1.0 ʃ 0.495 b 0.518 a 0.997 b 0.566 e 0.998 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 0.997 i 1.0
+.\validation-nts-10dB\102_f_nts_7.wav r 0.954 a 0.504 b 0.512 e 1.0 b 1.0 e 1.0 h 0.998 e 0.998 ʃ 0.995
+.\validation-nts-10dB\102_f_nts_8.wav r 0.953 o 1.0 b 0.942 t 0.993 o 0.962 b 0.997 e 1.0 h 1.0 e 1.0 ʃ 0.763 t 0.969 i 1.0
+.\validation-nts-10dB\102_f_nts_9.wav ʃ 0.885 e 0.928 h 0.959 e 0.89 b 0.805 e 0.883 b 1.0 e 0.673 h 0.628 e 1.0 ʃ 1.0 t 1.0 i 0.985
+.\validation-nts-10dB\106_m_nts_1.wav r 0.986 o 1.0 b 0.999 a 0.999 t 1.0 e 1.0 k 0.665 a 0.748 t 0.999 a 0.383 t 0.999 i 1.0
+.\validation-nts-10dB\106_m_nts_10.wav b 0.733 e 0.999 h 0.622 e 0.997 ʃ 0.695 t 1.0 i 0.975 t 0.533 i 0.792 r 0.506 a 0.549
+.\validation-nts-10dB\106_m_nts_11.wav b 1.0 e 1.0 h 1.0 e 1.0 ʃ 0.661 t 1.0 i 0.735 r 0.994 o 0.956 b 1.0 a 0.995 t 1.0 o 0.661
+.\validation-nts-10dB\106_m_nts_12.wav r 0.993 o 0.999 b 0.995 a 0.94 t 0.999 e 0.944 o 0.713 t 0.998 e 0.87 b 0.668 e 0.551 t 0.919 i 0.918
+.\validation-nts-10dB\106_m_nts_13.wav r 0.997 o 0.985 b 1.0 a 1.0 t 0.999 e 1.0 r 0.25 u 0.647 ʃ 0.998 b 0.879 a 0.686 t 0.997 e 0.986
+.\validation-nts-10dB\106_m_nts_14.wav r 1.0 o 0.997 b 1.0 a 0.958 t 0.999 e 0.985 a 0.326 ʃ 0.998 h 0.974 a 0.949 t 0.991 e 0.909
+.\validation-nts-10dB\106_m_nts_15.wav r 1.0 o 0.96 b 1.0 a 0.993 t 0.842 e 0.565 t 0.997 e 0.927 b 0.939 e 0.985 k 0.657 r 0.927 a 0.867
+.\validation-nts-10dB\106_m_nts_16.wav r 0.999 o 1.0 b 1.0 a 0.996 t 0.999 e 0.681 ʃ 0.476 e 0.934 t 0.389 a 0.776 h 0.366 e 0.851 t 0.919 u 0.51
+.\validation-nts-10dB\106_m_nts_17.wav d 0.538 o 0.998 h 0.846 e 1.0 ʃ 1.0 t 0.703 o 0.948 h 0.973 e 0.806 b 1.0 e 1.0 h 1.0 e 0.997 ʃ 1.0 t 1.0 i 1.0
+.\validation-nts-10dB\106_m_nts_18.wav o 0.599 b 0.828 e 0.998 b 1.0 e 1.0 h 0.605 e 0.999 ʃ 1.0 t 0.997 i 0.641
+.\validation-nts-10dB\106_m_nts_19.wav r 0.982 o 0.996 b 0.773 t 0.977 b 0.785 e 0.923 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 0.989 i 1.0
+.\validation-nts-10dB\106_m_nts_2.wav r 1.0 o 1.0 b 1.0 a 0.999 t 0.973 e 1.0 h 0.539 u 0.729 ʃ 1.0 b 0.7 i 0.55
+.\validation-nts-10dB\106_m_nts_20.wav e 0.567 h 0.848 i 0.431 b 0.999 e 1.0 h 0.965 e 0.99 ʃ 0.924 t 0.882 i 0.991
+.\validation-nts-10dB\106_m_nts_21.wav b 0.996 e 0.998 h 0.997 e 0.938 ʃ 1.0 t 1.0 i 0.975 b 0.961 a 0.618
+.\validation-nts-10dB\106_m_nts_22.wav b 0.888 e 1.0 h 0.979 e 0.999 ʃ 1.0 t 1.0 i 0.475 r 0.721 o 0.775 b 1.0 a 0.99 t 0.991 e 0.651 a 0.406
+.\validation-nts-10dB\106_m_nts_3.wav r 1.0 o 0.965 b 1.0 a 0.978 t 0.99 e 0.956 b 0.663 a 0.686 ʃ 0.617 t 0.957 e 0.491
+.\validation-nts-10dB\106_m_nts_4.wav r 1.0 o 1.0 b 1.0 a 0.964 t 1.0 e 1.0 t 0.999 e 0.996 b 0.475 e 0.899 t 0.727 r 0.988 o 0.628
+.\validation-nts-10dB\106_m_nts_5.wav r 1.0 o 1.0 b 1.0 a 0.998 t 0.687 e 1.0 s 0.637 t 0.623 e 0.933 f 0.85 a 0.79 t 0.598 e 0.929 r 0.379 u 0.455
+.\validation-nts-10dB\106_m_nts_6.wav r 0.959 o 1.0 t 0.681 e 0.998 ʃ 0.999 t 0.841 o 0.974 b 0.701 e 0.965 b 0.999 e 1.0 h 0.958 e 0.995 ʃ 1.0 t 1.0 i 0.998
+.\validation-nts-10dB\106_m_nts_7.wav r 0.773 o 0.955 t 0.703 e 0.988 b 1.0 e 1.0 h 0.999 e 0.998 ʃ 0.995 t 0.86
+.\validation-nts-10dB\106_m_nts_8.wav r 0.997 o 0.999 b 0.931 t 0.97 o 0.697 t 0.627 e 0.607 b 0.788 e 1.0 h 0.756 e 1.0 ʃ 0.999 t 0.824 i 0.725
+.\validation-nts-10dB\106_m_nts_9.wav ʃ 0.996 e 0.641 h 0.989 e 0.583 t 0.999 e 0.957 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 0.999
+.\validation-nts-10dB\113_f_nts_1.wav r 0.999 o 1.0 b 0.999 a 0.953 t 0.717 e 0.644 o 0.512 t 0.866 e 0.956 t 0.606 e 0.928 i 0.537
+.\validation-nts-10dB\113_f_nts_10.wav b 1.0 e 1.0 h 1.0 e 0.999 ʃ 1.0 t 1.0 e 0.954 b 0.88 i 0.769 b 1.0 a 1.0 t 1.0
+.\validation-nts-10dB\113_f_nts_11.wav b 0.99 e 0.967 h 0.999 e 0.998 ʃ 0.999 t 0.999 e 0.942 b 0.996 e 0.876 b 0.952 a 0.994 t 0.817 b 0.706 a 0.984
+.\validation-nts-10dB\113_f_nts_2.wav r 1.0 o 0.999 b 0.7 a 0.998 t 0.971 e 0.991 b 0.603 h 0.5 ʃ 1.0 b 0.607 e 0.827
+.\validation-nts-10dB\113_f_nts_3.wav r 1.0 o 1.0 b 0.993 a 0.997 t 1.0 e 0.983 t 0.923 e 0.784 l 0.909 e 1.0 ɡ 0.964 r 0.978 a 0.94
+.\validation-nts-10dB\113_f_nts_4.wav r 0.998 o 1.0 b 1.0 a 0.992 t 0.935 e 1.0 ʃ 0.608 t 0.553 e 0.985
+.\validation-nts-10dB\113_f_nts_5.wav r 1.0 o 1.0 b 1.0 a 0.98 t 0.998 e 1.0 b 0.878 e 0.997 t 0.526 e 0.741 r 0.697 o 0.303
+.\validation-nts-10dB\113_f_nts_6.wav r 0.941 a 0.936 n 0.453 e 0.999 ʃ 0.561 b 0.982 a 0.968 e 0.925 b 1.0 e 1.0 h 0.985 e 0.688 ʃ 0.961 t 0.688 i 1.0
+.\validation-nts-10dB\113_f_nts_7.wav t 0.481 a 0.834 h 0.971 e 0.981 b 0.995 e 0.999 h 0.678 ʃ 0.998 t 0.988 i 1.0
+.\validation-nts-10dB\113_f_nts_8.wav r 0.977 i 0.606 t 0.998 e 0.952 b 1.0 e 1.0 h 0.82 e 0.999 ʃ 0.991 t 0.988 i 1.0
+.\validation-nts-10dB\113_f_nts_9.wav r 0.943 o 0.924 b 0.924 e 1.0 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 0.972
+.\validation-nts-10dB\117_f_nts_1.wav b 0.885 e 1.0 h 0.845 e 0.998 ʃ 0.594 t 1.0 e 0.696 r 0.944 o 0.999 b 1.0 a 0.999 t 0.999 e 0.663 b 0.789 a 0.975
+.\validation-nts-10dB\117_f_nts_10.wav ʃ 0.98 t 0.647 e 0.631 h 0.973 i 0.511 b 1.0 e 0.708 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\validation-nts-10dB\117_f_nts_11.wav r 0.687 o 0.823 b 0.991 e 1.0 b 1.0 e 0.478 h 0.523 e 0.999 ʃ 1.0 t 0.998
+.\validation-nts-10dB\117_f_nts_2.wav b 1.0 e 1.0 h 0.931 e 0.779 ʃ 1.0 t 1.0 i 0.786 t 0.828 i 0.935 b 1.0 a 0.989 t 0.509
+.\validation-nts-10dB\117_f_nts_3.wav r 0.99 o 0.93 b 0.476 e 0.959 ʃ 0.991 b 0.994 o 0.883 h 0.758 e 0.957 b 1.0 e 0.694 h 0.965 e 0.999 ʃ 1.0 t 0.992 i 0.997
+.\validation-nts-10dB\117_f_nts_4.wav r 0.999 o 0.999 t 0.601 r 0.781 o 0.962 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 0.932 i 1.0
+.\validation-nts-10dB\117_f_nts_5.wav r 1.0 o 0.999 b 1.0 a 0.993 t 1.0 e 0.837 h 0.758 e 0.807 ʃ 0.999 b 0.545 e 0.946
+.\validation-nts-10dB\117_f_nts_6.wav r 1.0 o 0.998 b 1.0 a 0.999 t 0.999 e 0.585 t 0.989 e 1.0 h 0.889 e 0.976 t 0.975 a 0.45
+.\validation-nts-10dB\117_f_nts_7.wav r 1.0 o 1.0 b 1.0 a 1.0 t 0.998 e 0.999 t 0.985 r 0.448 e 0.557 h 0.985 a 0.585 t 0.98 i 0.755
+.\validation-nts-10dB\117_f_nts_8.wav r 0.989 o 1.0 b 1.0 a 0.929 t 0.999 e 0.955 a 0.607 t 0.949 e 0.995 b 0.966 e 0.922
+.\validation-nts-10dB\117_f_nts_9.wav r 0.999 o 0.998 b 1.0 a 0.999 t 0.999 e 1.0 t 0.955 e 0.937 h 0.359 e 0.812 ʃ 0.721 b 0.732 e 0.974
+.\validation-nts-10dB\129_m_nts_1.wav r 1.0 o 0.991 b 1.0 a 1.0 t 0.998 e 0.552 b 0.91 a 0.999 ʃ 0.999 t 0.437 a 0.415
+.\validation-nts-10dB\129_m_nts_10.wav r 0.999 o 0.999 b 0.776 a 0.996 t 0.833 e 1.0 s 0.472 o 0.95 t 0.55 a 0.969 i 0.503
+.\validation-nts-10dB\129_m_nts_11.wav r 0.99 o 0.909 b 0.896 a 0.958 t 0.996 e 0.984 t 0.545 e 0.993 b 0.96 i 0.503 r 0.949 ɒ 0.409
+.\validation-nts-10dB\129_m_nts_2.wav b 1.0 e 1.0 h 1.0 e 0.998 ʃ 0.65 t 1.0 i 0.941 r 0.993 o 0.987 b 1.0 a 0.993 t 1.0 b 0.962 a 0.999
+.\validation-nts-10dB\129_m_nts_3.wav b 1.0 e 1.0 h 1.0 e 0.999 ʃ 1.0 t 0.999 i 0.997 b 0.996 a 0.966
+.\validation-nts-10dB\129_m_nts_4.wav r 0.988 o 0.991 b 0.955 e 0.999 b 1.0 e 1.0 h 0.968 e 1.0 ʃ 0.983
+.\validation-nts-10dB\129_m_nts_5.wav r 1.0 o 0.999 b 1.0 a 0.999 t 0.784 e 0.998 r 0.281 o 0.709 t 0.449 e 0.595 t 0.938 e 0.586 t 0.968 e 0.978 t 0.606 i 0.979
+.\validation-nts-10dB\129_m_nts_6.wav r 0.437 o 0.858 b 0.998 a 0.866 h 0.452 e 0.976 ʃ 0.853 t 0.661 r 0.668 o 0.841 e 0.759 b 1.0 e 0.893 h 0.779 e 0.817 ʃ 1.0 t 0.999 i 0.999
+.\validation-nts-10dB\129_m_nts_7.wav r 0.895 o 0.654 t 0.88 o 0.736 b 1.0 e 1.0 h 0.865 e 1.0 ʃ 1.0 t 0.647
+.\validation-nts-10dB\129_m_nts_8.wav r 0.999 o 0.996 b 1.0 a 0.997 t 0.999 e 1.0 h 0.93 e 0.631 ʃ 0.998 m 0.864 i 0.499
+.\validation-nts-10dB\129_m_nts_9.wav t 0.759 a 0.974 t 0.996 i 0.993 b 1.0 e 1.0 h 0.994 e 0.56 ʃ 0.961 t 0.539 i 0.997
+.\validation-nts-10dB\137_m_nts_1.wav r 1.0 o 1.0 b 1.0 a 0.998 t 1.0 e 0.996 a 0.751 t 0.965 o 0.526 b 0.648 e 0.949 t 0.981 i 0.999
+.\validation-nts-10dB\137_m_nts_10.wav b 1.0 e 1.0 h 1.0 e 1.0 ʃ 0.999 t 1.0 i 0.937 l 0.784 i 0.999 b 1.0 a 0.996
+.\validation-nts-10dB\137_m_nts_11.wav b 1.0 e 1.0 h 0.946 e 1.0 ʃ 1.0 t 1.0 i 0.791 r 0.978 o 0.999 b 1.0 a 0.999 t 1.0 e 0.971
+.\validation-nts-10dB\137_m_nts_2.wav r 1.0 o 1.0 b 1.0 a 1.0 t 0.706 e 1.0 b 0.763 e 0.958 ʃ 0.772 m 0.933 a 0.328
+.\validation-nts-10dB\137_m_nts_3.wav r 1.0 o 1.0 b 1.0 a 0.998 t 0.941 e 0.813 b 0.636 a 0.775 ʃ 1.0 t 0.895 a 0.742
+.\validation-nts-10dB\137_m_nts_4.wav r 1.0 o 1.0 b 1.0 a 1.0 t 0.902 e 1.0 t 0.999 e 0.998 d 0.398 e 0.789 ɡ 0.681 r 0.933 a 0.586 b 0.503 e 0.961
+.\validation-nts-10dB\137_m_nts_5.wav h 0.301 e 0.997 t 0.787 o 0.999 b 0.81 a 0.968 b 0.918 u 0.464
+.\validation-nts-10dB\137_m_nts_6.wav r 0.805 o 0.998 h 0.693 e 1.0 ʃ 0.999 t 0.975 a 0.667 h 0.527 e 0.986 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\validation-nts-10dB\137_m_nts_7.wav r 0.749 a 0.993 t 0.727 e 0.818 b 1.0 e 1.0 h 0.547 e 1.0 ʃ 1.0 t 0.941
+.\validation-nts-10dB\137_m_nts_8.wav r 0.871 o 0.911 ʃ 0.472 t 1.0 o 0.774 b 1.0 e 1.0 h 0.977 e 1.0 ʃ 0.762 t 1.0 i 1.0
+.\validation-nts-10dB\137_m_nts_9.wav ʃ 0.869 a 0.644 h 0.983 i 0.673 b 0.559 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\validation-nts-10dB\157_f_nts_1.wav r 1.0 o 1.0 b 1.0 a 1.0 t 1.0 e 0.896 k 0.447 b 0.69 a 0.999 t 0.964 e 0.921 r 0.541 b 0.756 e 0.985 t 1.0 i 0.984
+.\validation-nts-10dB\157_f_nts_10.wav b 1.0 e 1.0 h 1.0 e 0.998 ʃ 1.0 b 0.597 i 0.548 t 0.447 i 0.998 b 1.0 a 0.978
+.\validation-nts-10dB\157_f_nts_11.wav b 1.0 e 1.0 h 0.739 e 0.999 ʃ 1.0 t 0.998 e 0.601 r 1.0 o 0.999 b 0.997 a 1.0 t 0.999 b 0.721 a 0.942
+.\validation-nts-10dB\157_f_nts_2.wav r 1.0 o 1.0 b 1.0 a 1.0 t 1.0 e 0.743 m 0.391 e 0.992 ʃ 0.612 t 0.941 m 0.576 e 0.615
+.\validation-nts-10dB\157_f_nts_3.wav r 1.0 o 1.0 b 0.977 a 1.0 t 1.0 e 1.0 b 0.994 a 0.973 ʃ 0.574 b 0.559 e 0.733
+.\validation-nts-10dB\157_f_nts_4.wav r 1.0 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 t 0.994 e 1.0 b 0.989 e 1.0 ʃ 0.687 i 0.935
+.\validation-nts-10dB\157_f_nts_5.wav r 0.999 o 1.0 b 0.984 a 0.995 t 1.0 e 0.806 t 0.517 o 0.996 x 0.676 a 0.601 t 0.975 i 0.538
+.\validation-nts-10dB\157_f_nts_6.wav r 0.93 o 0.965 b 0.556 e 0.592 ʃ 0.996 t 0.982 o 0.967 h 0.771 e 0.992 b 0.572 e 1.0 h 0.995 e 1.0 ʃ 0.56 t 0.979 i 0.864
+.\validation-nts-10dB\157_f_nts_7.wav r 0.898 a 0.916 t 0.999 e 0.999 b 0.592 e 1.0 h 0.861 e 0.992 ʃ 0.997
+.\validation-nts-10dB\157_f_nts_8.wav r 0.762 o 0.997 e 0.753 t 0.994 o 0.697 t 0.975 b 0.996 e 1.0 h 1.0 e 1.0 ʃ 0.733 t 0.676 i 1.0
+.\validation-nts-10dB\157_f_nts_9.wav b 0.501 e 0.997 h 1.0 e 1.0 ʃ 0.832 t 0.601 i 1.0
+.\validation-nts-10dB\160_f_nts_1.wav r 0.999 o 1.0 b 1.0 a 0.821 t 0.926 e 0.995 t 0.965 e 0.81 t 0.978 i 0.992
+.\validation-nts-10dB\160_f_nts_10.wav b 1.0 e 1.0 h 0.996 e 0.999 ʃ 0.999 t 0.587 e 0.683 r 0.972 o 0.991 b 1.0 a 0.997 t 0.602 e 0.557
+.\validation-nts-10dB\160_f_nts_11.wav b 0.634 e 0.999 h 0.943 e 0.999 ʃ 0.949 t 0.975 e 0.99 i 0.947 b 0.997 a 0.883
+.\validation-nts-10dB\160_f_nts_2.wav r 1.0 o 0.998 b 1.0 a 0.999 t 1.0 e 0.955 h 0.502 ʃ 0.994 b 0.999 e 0.852
+.\validation-nts-10dB\160_f_nts_3.wav r 1.0 o 1.0 b 1.0 a 0.9 t 0.53 e 0.82 b 0.561 a 0.584 ʃ 1.0 b 0.916 a 0.787
+.\validation-nts-10dB\160_f_nts_4.wav r 0.575 o 1.0 b 1.0 a 0.998 t 1.0 e 0.867 t 0.709 e 1.0 l 0.527 e 0.999 k 0.395 r 0.651 a 0.992
+.\validation-nts-10dB\160_f_nts_5.wav r 0.549 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 t 0.693 e 0.877 b 0.971 a 0.999 t 0.804 e 0.707
+.\validation-nts-10dB\160_f_nts_6.wav r 1.0 o 1.0 m 0.397 e 0.632 ʃ 0.999 t 0.971 o 0.559 e 0.988 b 1.0 e 1.0 h 0.944 e 1.0 ʃ 0.9 t 0.873 i 0.823
+.\validation-nts-10dB\160_f_nts_7.wav r 0.876 o 0.991 b 0.999 e 1.0 b 1.0 e 1.0 h 0.839 e 1.0 ʃ 1.0 t 0.928
+.\validation-nts-10dB\160_f_nts_8.wav r 0.999 o 0.585 t 0.798 r 0.603 o 0.871 t 0.625 b 1.0 e 0.617 h 1.0 e 0.996 ʃ 0.999 t 1.0 i 0.995
+.\validation-nts-10dB\160_f_nts_9.wav r 0.394 e 0.99 t 0.628 e 0.996 t 0.754 e 0.565 b 1.0 e 1.0 h 0.723 e 1.0 ʃ 1.0 t 0.999 i 1.0
+.\validation-nts-10dB\162_m_nts_1.wav r 1.0 o 1.0 b 1.0 a 1.0 t 0.929 e 0.999 a 0.591 t 0.926 e 0.83
+.\validation-nts-10dB\162_m_nts_10.wav b 1.0 e 1.0 h 1.0 e 1.0 ʃ 0.886 t 0.748 i 0.911 b 0.993 a 0.483
+.\validation-nts-10dB\162_m_nts_11.wav b 1.0 e 1.0 h 0.748 e 1.0 ʃ 1.0 t 0.754 i 0.659 r 0.987 o 0.997 b 0.999 a 1.0 t 1.0 a 0.739
+.\validation-nts-10dB\162_m_nts_2.wav r 0.997 o 1.0 b 0.999 a 0.928 t 1.0 e 0.872
+.\validation-nts-10dB\162_m_nts_3.wav r 0.829 b 0.501 o 0.998 b 1.0 a 0.999 t 0.589 e 0.999 a 0.625 e 0.688 ʃ 1.0 t 0.935 a 0.962 t 0.841 e 0.86
+.\validation-nts-10dB\162_m_nts_4.wav r 0.982 o 1.0 b 0.979 a 0.993 t 0.943 e 1.0 t 0.993 e 0.984 t 0.858 e 0.997 h 0.633 i 0.479
+.\validation-nts-10dB\162_m_nts_5.wav r 1.0 o 1.0 b 0.999 a 0.993 t 0.661 h 0.629 e 1.0 ʃ 0.485 o 0.814 a 0.836
+.\validation-nts-10dB\162_m_nts_6.wav r 0.959 o 0.994 b 0.766 t 0.441 e 0.998 ʃ 0.999 b 0.561 o 0.864 b 0.977 e 0.999 b 1.0 e 1.0 h 0.994 e 0.999 ʃ 0.936 t 0.999 i 0.963
+.\validation-nts-10dB\162_m_nts_7.wav r 0.996 o 0.996 b 0.967 e 1.0 b 0.998 e 0.685 h 0.986 e 0.698 ʃ 1.0
+.\validation-nts-10dB\162_m_nts_8.wav b 0.919 e 0.929 b 0.946 e 0.39 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 0.933 t 0.904 i 0.98
+.\validation-nts-10dB\162_m_nts_9.wav b 0.502 ʃ 0.998 t 0.888 e 0.857 b 0.824 e 0.845 b 1.0 e 0.999 h 1.0 e 1.0 ʃ 0.584 t 1.0 i 1.0
+.\validation-nts-10dB\180_f_nts_1.wav b 0.999 e 0.999 h 1.0 e 0.998 ʃ 1.0 t 0.547 i 0.951 r 0.884 o 0.982 b 1.0 a 0.997 t 1.0 a 0.939
+.\validation-nts-10dB\180_f_nts_10.wav r 0.503 o 1.0 b 0.999 a 0.994 t 1.0 e 0.908 t 0.999 e 0.997 l 0.906 e 0.911 k 0.622 a 0.984
+.\validation-nts-10dB\180_f_nts_11.wav ʃ 0.99 e 0.61 h 0.588 b 0.991 e 1.0 h 0.995 e 0.997 ʃ 1.0 t 1.0 i 0.997
+.\validation-nts-10dB\180_f_nts_2.wav b 1.0 e 0.797 h 0.773 e 0.999 ʃ 0.527 t 1.0 e 0.702 t 0.659 i 0.696 b 0.953 a 0.982
+.\validation-nts-10dB\180_f_nts_3.wav r 0.667 a 0.825 b 0.986 e 0.991 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 0.975 i 0.838
+.\validation-nts-10dB\180_f_nts_4.wav r 0.913 o 0.988 h 0.406 e 0.724 ʃ 0.584 t 0.68 e 0.898 b 0.999 e 0.997 h 0.993 e 0.953 ʃ 0.999 t 0.751 i 1.0
+.\validation-nts-10dB\180_f_nts_5.wav b 0.53 e 0.935 f 0.368 t 1.0 e 0.91 b 0.991 e 0.579 h 0.995 e 0.742 ʃ 1.0 t 0.705 i 1.0
+.\validation-nts-10dB\180_f_nts_6.wav r 0.867 o 0.999 b 0.999 e 0.956 t 0.992 a 0.757 h 0.961 e 0.995 ʃ 1.0 t 0.81 e 0.91
+.\validation-nts-10dB\180_f_nts_7.wav r 0.991 o 1.0 b 1.0 a 1.0 t 1.0 e 0.999 k 0.916 a 0.931 e 0.809 t 0.519 i 0.964 t 0.941 i 0.974
+.\validation-nts-10dB\180_f_nts_8.wav r 1.0 o 1.0 b 0.999 a 1.0 t 1.0 e 1.0 h 0.754 e 0.959 ʃ 1.0 t 0.602 a 0.994
+.\validation-nts-10dB\180_f_nts_9.wav r 0.998 o 0.999 b 1.0 a 0.997 t 0.954 e 0.844 t 0.359 e 0.902 x 0.432 a 0.976 t 0.869 i 0.919
+.\validation-nts-10dB\182_m_nts_1.wav r 1.0 o 1.0 b 0.999 a 0.937 t 0.998 e 0.684 o 0.953 t 1.0 e 0.557 r 0.517 e 0.959 i 0.973
+.\validation-nts-10dB\182_m_nts_10.wav b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 0.822 t 0.768 i 0.999 b 1.0 a 1.0
+.\validation-nts-10dB\182_m_nts_11.wav b 1.0 e 1.0 h 1.0 e 0.999 ʃ 1.0 t 0.988 e 0.731 r 1.0 o 1.0 b 1.0 a 0.972 t 0.804 a 0.618
+.\validation-nts-10dB\182_m_nts_2.wav r 0.976 o 1.0 b 1.0 a 1.0 t 0.753 e 0.596 ʃ 0.997 m 0.608 e 0.972 t 0.779
+.\validation-nts-10dB\182_m_nts_3.wav r 1.0 o 1.0 b 1.0 a 0.984 t 0.954 e 0.997 o 0.894 ʃ 0.983 ɒ 0.416
+.\validation-nts-10dB\182_m_nts_4.wav r 1.0 o 1.0 b 1.0 a 0.498 t 0.498 e 0.92 t 0.654 e 0.996 b 0.88 e 0.994 ɡ 0.995 e 0.917 r 0.414 a 0.998 t 0.644
+.\validation-nts-10dB\182_m_nts_5.wav r 1.0 o 1.0 b 1.0 a 0.996 t 0.857 e 0.828 s 0.342 o 0.985 x 0.437 a 0.98
+.\validation-nts-10dB\182_m_nts_6.wav r 0.693 o 0.554 h 0.845 e 1.0 ʃ 0.999 t 0.948 o 0.816 h 0.887 e 0.957 b 0.752 e 1.0 h 0.724 e 0.998 ʃ 0.999 t 0.505 i 0.716
+.\validation-nts-10dB\182_m_nts_7.wav r 0.508 a 0.537 b 0.909 e 0.999 b 1.0 e 1.0 h 0.608 e 1.0 ʃ 0.999 t 0.524
+.\validation-nts-10dB\182_m_nts_8.wav r 0.999 o 0.998 k 0.574 t 0.997 o 0.968 b 1.0 e 0.46 h 1.0 e 1.0 ʃ 1.0 t 0.999 i 0.737
+.\validation-nts-10dB\182_m_nts_9.wav ʃ 0.927 a 0.964 h 0.984 i 0.878 b 1.0 e 1.0 h 0.968 e 1.0 ʃ 1.0 t 1.0 i 0.507
+.\validation-nts-10dB\18_m_nts_1.wav r 1.0 o 1.0 b 1.0 a 0.999 t 0.742 e 0.979 o 0.479 t 0.511 e 0.844 t 0.797 i 0.937
+.\validation-nts-10dB\18_m_nts_10.wav b 0.999 e 0.999 h 0.992 e 1.0 ʃ 1.0 t 0.874 e 0.691 r 0.489 i 0.889 b 1.0 a 0.998
+.\validation-nts-10dB\18_m_nts_2.wav r 1.0 o 1.0 b 0.998 a 0.976 t 0.97 i 0.921 b 0.512 ɒ 0.331
+.\validation-nts-10dB\18_m_nts_3.wav r 0.777 o 1.0 b 1.0 a 1.0 t 0.583 i 0.873 b 0.952 a 0.757 ʃ 0.994 h 0.736 a 0.939 t 0.852 e 0.967
+.\validation-nts-10dB\18_m_nts_4.wav r 1.0 o 0.999 b 1.0 a 0.993 t 0.82 e 0.987 t 0.779 e 0.758 r 0.997 a 0.933 t 0.612
+.\validation-nts-10dB\18_m_nts_5.wav r 1.0 o 1.0 b 1.0 a 1.0 t 0.935 e 1.0 r 0.495 o 0.997 b 0.861 a 0.993 i 0.717
+.\validation-nts-10dB\18_m_nts_6.wav r 0.954 o 0.964 t 0.567 e 1.0 ʃ 0.995 t 0.987 a 0.682 e 0.988 b 0.998 e 1.0 h 1.0 e 0.995 ʃ 1.0 t 0.999 i 0.986
+.\validation-nts-10dB\18_m_nts_7.wav r 0.933 o 0.974 b 0.957 e 1.0 t 0.6 e 0.977 h 0.482 e 0.991 ʃ 0.98
+.\validation-nts-10dB\18_m_nts_8.wav r 0.999 o 1.0 r 0.831 o 0.54 t 0.941 e 0.707 b 1.0 e 0.553 h 0.974 e 0.833 ʃ 1.0 t 1.0 i 1.0
+.\validation-nts-10dB\18_m_nts_9.wav t 0.931 e 0.74 h 0.825 i 0.81 b 1.0 e 1.0 h 0.986 e 1.0 ʃ 1.0 t 0.999 i 0.992
+.\validation-nts-10dB\22_m_nts_1.wav r 1.0 o 1.0 b 1.0 a 0.998 t 0.999 e 0.999 k 0.875 a 0.578 n 0.841 t 0.999 e 0.784 r 0.843 e 0.996 t 0.994 i 0.938
+.\validation-nts-10dB\22_m_nts_10.wav b 0.714 e 0.999 h 0.944 e 0.405 ʃ 0.999 t 1.0 i 0.95 o 0.701 b 1.0 a 0.988
+.\validation-nts-10dB\22_m_nts_2.wav r 1.0 o 1.0 b 1.0 a 0.998 t 1.0 e 0.998 h 0.592 e 0.48 h 0.71 e 0.504 ʃ 0.988 t 0.763 m 0.934 e 0.642
+.\validation-nts-10dB\22_m_nts_3.wav r 0.982 o 0.988 b 0.996 a 0.978 t 0.749 e 0.624 h 0.466 a 0.942 ʃ 0.999 t 1.0 e 0.948
+.\validation-nts-10dB\22_m_nts_4.wav r 1.0 o 1.0 b 1.0 a 0.999 t 0.995 e 0.993 t 0.996 e 0.625 b 0.379 e 1.0 ɡ 0.97 r 0.502 a 0.798
+.\validation-nts-10dB\22_m_nts_5.wav r 0.995 o 1.0 b 1.0 a 1.0 t 0.928 e 0.997 t 0.611 o 0.887 b 0.435 a 0.998 t 0.996 e 0.782
+.\validation-nts-10dB\22_m_nts_6.wav r 0.93 o 0.991 h 0.559 e 0.999 ʃ 0.901 e 0.918 t 0.76 b 0.61 e 0.907 ʃ 0.576 e 0.987 h 0.863 e 0.869 b 1.0 e 1.0 h 0.999 e 0.951 ʃ 0.978 t 0.999 i 1.0
+.\validation-nts-10dB\22_m_nts_7.wav r 0.942 o 0.736 b 0.986 e 0.99 b 1.0 e 1.0 h 1.0 e 0.999 ʃ 0.998 t 0.638
+.\validation-nts-10dB\22_m_nts_8.wav r 0.97 o 0.998 k 0.379 t 0.999 e 0.512 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 0.985 i 0.571
+.\validation-nts-10dB\22_m_nts_9.wav h 0.916 e 0.999 ʃ 1.0 t 1.0 i 0.749 b 0.707 i 0.81 b 1.0 a 0.983
+.\validation-nts-10dB\23_m_nts_1.wav r 1.0 o 1.0 b 1.0 a 0.994 t 1.0 e 0.902 k 0.699 a 0.494 t 1.0 e 0.989 b 0.972 e 0.993 h 0.504 i 0.686
+.\validation-nts-10dB\23_m_nts_10.wav b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 0.972 i 0.983 t 0.373 i 0.923 b 0.574 o 0.988
+.\validation-nts-10dB\23_m_nts_2.wav r 1.0 o 0.999 b 1.0 a 0.999 t 0.999 e 0.965 h 0.503 a 0.647 h 0.705 ʃ 0.727 b 0.957 e 0.917
+.\validation-nts-10dB\23_m_nts_3.wav r 0.802 o 1.0 b 1.0 a 0.769 t 1.0 e 1.0 h 0.899 e 0.981 ʃ 1.0 t 0.621 e 0.528 n 0.573
+.\validation-nts-10dB\23_m_nts_4.wav r 0.996 o 1.0 b 1.0 a 1.0 t 1.0 e 0.852 t 0.999 e 0.603 t 0.825 e 0.999 t 0.519 e 0.82 r 0.8 a 0.793
+.\validation-nts-10dB\23_m_nts_5.wav r 1.0 o 1.0 b 0.992 a 1.0 t 1.0 e 1.0 s 0.631 o 0.956 x 0.725 e 0.559 t 0.579 o 0.295
+.\validation-nts-10dB\23_m_nts_6.wav d 0.533 o 0.996 t 0.702 e 1.0 ʃ 0.995 t 0.729 a 0.998 b 0.58 e 1.0 b 1.0 e 1.0 h 0.985 e 1.0 ʃ 0.809 t 0.696 i 1.0
+.\validation-nts-10dB\23_m_nts_7.wav r 0.98 a 0.866 b 0.814 e 1.0 b 0.999 e 1.0 h 0.998 e 1.0 ʃ 0.997 t 0.697
+.\validation-nts-10dB\23_m_nts_8.wav r 0.999 o 1.0 b 0.993 e 0.534 t 0.999 o 0.603 b 0.683 e 0.919 b 1.0 e 1.0 h 0.822 e 0.999 ʃ 0.889 t 1.0 i 1.0
+.\validation-nts-10dB\23_m_nts_9.wav ʃ 0.972 t 1.0 a 0.831 t 0.578 e 0.965 t 0.994 e 0.783 b 1.0 e 1.0 h 0.534 e 1.0 ʃ 0.554 t 1.0 i 1.0
+.\validation-nts-10dB\27_m_nts_1.wav r 1.0 o 1.0 b 0.999 a 0.997 t 0.609 e 0.998 b 0.868 o 0.625 t 0.994 e 0.99 t 0.989 i 0.999
+.\validation-nts-10dB\27_m_nts_10.wav b 1.0 e 0.515 h 0.768 e 1.0 ʃ 0.997 t 0.872 e 0.507 r 0.978 o 0.995 b 1.0 a 0.995 t 0.912 b 0.486 a 0.916
+.\validation-nts-10dB\27_m_nts_2.wav r 1.0 o 0.997 b 1.0 a 0.792 t 0.91 e 0.769 b 0.999 i 0.572 ʃ 0.682 m 0.861 a 0.399
+.\validation-nts-10dB\27_m_nts_3.wav r 1.0 o 0.999 b 1.0 a 0.999 t 0.948 e 0.991 o 0.648 h 0.838 t 0.463 ʃ 0.854 e 0.583 b 0.725 a 0.604
+.\validation-nts-10dB\27_m_nts_4.wav r 1.0 o 1.0 b 1.0 a 0.993 t 1.0 e 0.766 t 0.996 e 1.0 l 0.973 e 0.999 t 0.603 a 0.956
+.\validation-nts-10dB\27_m_nts_5.wav r 0.998 o 1.0 b 0.999 a 0.977 t 0.925 e 1.0 t 0.575 o 0.996 h 0.41 e 0.522
+.\validation-nts-10dB\27_m_nts_6.wav r 0.894 a 0.485 h 0.685 e 0.995 ʃ 0.983 b 0.939 e 0.372 b 1.0 e 1.0 h 0.938 e 1.0 ʃ 1.0 t 0.717 i 1.0
+.\validation-nts-10dB\27_m_nts_7.wav r 0.938 o 0.975 b 0.972 e 0.99 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 0.63
+.\validation-nts-10dB\27_m_nts_8.wav r 0.997 o 0.945 b 0.696 t 1.0 o 0.572 b 0.87 e 1.0 h 1.0 e 1.0 ʃ 0.997 t 1.0 i 1.0
+.\validation-nts-10dB\27_m_nts_9.wav b 1.0 e 1.0 h 0.981 e 1.0 ʃ 0.748 t 1.0 e 0.819 r 0.794 i 0.999 b 1.0 a 0.979
+.\validation-nts-10dB\33_f_nts_1.wav r 1.0 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 r 0.967 o 0.942 t 0.998 o 0.798 r 0.654 e 0.832 i 0.913
+.\validation-nts-10dB\33_f_nts_10.wav b 1.0 e 1.0 h 1.0 e 0.994 ʃ 0.514 t 0.864 i 0.642 o 0.389 b 0.658 e 0.971 b 0.98 e 0.961 b 0.902 a 0.999
+.\validation-nts-10dB\33_f_nts_11.wav b 1.0 e 1.0 h 1.0 e 1.0 ʃ 0.999 t 0.992 i 0.614 r 0.993 o 0.987 b 1.0 a 0.94 t 0.64 a 0.425
+.\validation-nts-10dB\33_f_nts_2.wav r 1.0 o 0.999 b 1.0 a 0.999 t 0.879 e 0.554 b 0.975 e 0.716 h 0.6 e 0.939 ʃ 0.678 t 0.658 b 0.963 e 0.947
+.\validation-nts-10dB\33_f_nts_3.wav r 0.964 o 1.0 b 1.0 a 1.0 t 0.99 e 1.0 b 0.515 a 0.705 b 0.796 h 0.677 ʃ 0.998 t 0.969 e 0.916
+.\validation-nts-10dB\33_f_nts_4.wav r 1.0 o 1.0 b 1.0 a 1.0 t 0.88 e 0.991 b 1.0 e 1.0 r 0.684 o 0.998 b 0.969 e 0.513
+.\validation-nts-10dB\33_f_nts_5.wav r 0.993 o 1.0 b 1.0 a 0.881 t 1.0 e 1.0 r 0.978 o 0.991 t 0.975 a 0.907 t 0.586 i 0.614
+.\validation-nts-10dB\33_f_nts_6.wav r 0.997 o 0.989 t 0.677 o 0.659 b 0.943 e 1.0 h 0.995 e 1.0 ʃ 0.997 t 0.601 i 1.0
+.\validation-nts-10dB\33_f_nts_7.wav r 0.866 o 0.993 b 1.0 e 0.936 b 0.826 e 0.662 ʃ 0.999 t 0.668 e 0.65 b 1.0 e 1.0 h 0.507 e 0.995 ʃ 0.975 t 0.973 i 0.969
+.\validation-nts-10dB\33_f_nts_8.wav r 0.994 o 0.964 b 0.906 e 0.998 b 0.932 e 0.748 h 0.881 e 0.994 ʃ 1.0 t 0.577
+.\validation-nts-10dB\33_f_nts_9.wav ʃ 0.775 a 0.752 i 0.935 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 0.86 i 1.0
+.\validation-nts-10dB\35_f_nts_1.wav r 1.0 o 1.0 b 1.0 a 1.0 t 0.999 e 1.0 a 0.779 t 0.673 o 0.985 r 0.767 e 0.999 t 0.388 i 0.968
+.\validation-nts-10dB\35_f_nts_10.wav b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 0.717 i 0.891 b 1.0 a 0.993
+.\validation-nts-10dB\35_f_nts_2.wav r 1.0 o 1.0 b 1.0 a 1.0 t 1.0 e 0.936 h 0.673 o 0.504 ʃ 1.0 m 0.479 e 0.623
+.\validation-nts-10dB\35_f_nts_3.wav r 1.0 o 1.0 b 1.0 a 0.999 t 1.0 e 0.617 b 0.982 a 0.978 h 0.728 ʃ 0.999 b 0.827 e 0.935
+.\validation-nts-10dB\35_f_nts_4.wav r 0.968 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 t 0.994 e 1.0 t 0.391 e 1.0 k 0.729 r 0.524 a 0.964
+.\validation-nts-10dB\35_f_nts_5.wav r 0.999 o 1.0 b 0.999 a 0.993 t 0.984 e 0.57 t 0.502 e 0.989 a 0.958 t 0.589 i 0.599
+.\validation-nts-10dB\35_f_nts_6.wav r 0.986 o 0.996 t 0.991 e 1.0 ʃ 0.999 t 0.769 o 0.58 e 0.976 b 1.0 e 1.0 h 0.759 e 1.0 ʃ 1.0 t 0.775 i 1.0
+.\validation-nts-10dB\35_f_nts_7.wav r 0.794 a 0.747 b 0.425 t 0.892 e 1.0 b 1.0 e 1.0 h 0.943 e 0.998 ʃ 1.0
+.\validation-nts-10dB\35_f_nts_8.wav r 0.999 o 0.994 k 0.738 t 1.0 o 0.975 b 1.0 e 1.0 h 0.843 e 1.0 ʃ 1.0 t 0.648 i 1.0
+.\validation-nts-10dB\35_f_nts_9.wav ʃ 0.979 a 0.766 h 0.777 e 0.643 b 0.782 e 1.0 h 0.994 e 1.0 ʃ 0.825 t 0.671 i 1.0
+.\validation-nts-10dB\40_m_nts_1.wav r 1.0 o 1.0 b 1.0 a 0.996 e 0.661 t 0.935 e 0.914 k 0.937 a 0.994 t 0.927 e 0.662 i 0.941
+.\validation-nts-10dB\40_m_nts_10.wav b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 0.503 b 0.998 a 0.988
+.\validation-nts-10dB\40_m_nts_11.wav b 0.916 e 0.936 h 1.0 e 0.999 ʃ 0.987 t 0.645 e 0.876 r 0.987 o 0.998 b 0.781 a 0.99 t 0.999 b 0.931 a 0.963
+.\validation-nts-10dB\40_m_nts_2.wav r 1.0 o 1.0 b 0.998 a 0.999 t 1.0 e 1.0 b 0.992 o 0.682 ʃ 0.998 i 0.718 m 0.958 a 0.263
+.\validation-nts-10dB\40_m_nts_3.wav r 1.0 o 1.0 b 0.999 a 0.964 t 0.999 e 0.996 a 0.412 ʃ 0.929 e 0.537 t 0.42 a 0.953 t 0.818 i 0.551
+.\validation-nts-10dB\40_m_nts_4.wav r 1.0 o 1.0 b 0.995 a 1.0 t 1.0 e 1.0 t 0.977 e 0.999 b 0.952 e 0.999 ʃ 0.248 a 0.94
+.\validation-nts-10dB\40_m_nts_5.wav r 1.0 o 1.0 b 0.99 a 0.909 t 0.966 e 0.985 t 0.694 r 0.618 o 0.985 b 0.564 a 0.991 t 0.985 i 0.983
+.\validation-nts-10dB\40_m_nts_6.wav r 0.447 o 0.983 b 0.442 a 0.817 t 0.736 h 0.44 e 1.0 ʃ 0.978 r 0.994 a 0.655 x 0.393 e 0.987 b 1.0 e 0.749 h 0.992 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\validation-nts-10dB\40_m_nts_7.wav r 0.996 o 0.996 b 0.887 e 0.992 b 0.949 e 0.541 h 1.0 e 1.0 ʃ 0.999 t 0.941 i 0.576
+.\validation-nts-10dB\40_m_nts_8.wav r 0.999 o 0.976 r 0.787 o 0.981 t 0.686 e 0.52 b 1.0 e 0.726 h 0.985 e 1.0 ʃ 1.0 t 0.775 i 1.0
+.\validation-nts-10dB\40_m_nts_9.wav ʃ 0.889 a 0.399 h 0.772 i 0.467 b 0.999 e 0.986 h 0.981 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\validation-nts-10dB\41_f_nts_1.wav r 1.0 o 1.0 b 1.0 a 0.999 t 0.998 e 0.471 b 0.38 a 0.766 t 0.617 o 0.891 b 0.492 e 0.569 b 0.653 i 0.969
+.\validation-nts-10dB\41_f_nts_10.wav b 0.929 e 0.999 h 0.999 e 0.881 ʃ 0.581 t 0.944 e 0.582 b 0.971 e 0.835
+.\validation-nts-10dB\41_f_nts_11.wav b 0.959 e 0.995 h 0.956 e 0.92 ʃ 0.942 t 1.0 i 0.785 r 0.98 o 0.997 b 0.891 a 0.996 t 0.708 r 0.426 e 0.356
+.\validation-nts-10dB\41_f_nts_2.wav r 0.999 o 1.0 b 1.0 a 0.999 t 0.999 e 0.515 b 0.776 e 0.763 ʃ 1.0 b 0.976 e 0.808
+.\validation-nts-10dB\41_f_nts_3.wav r 1.0 o 1.0 b 1.0 a 1.0 t 0.828 e 0.999 h 0.672 e 0.821 ʃ 1.0 t 0.751 e 0.97
+.\validation-nts-10dB\41_f_nts_4.wav r 0.999 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 t 0.899 e 0.646 t 0.575 e 0.963 t 0.685 e 0.846
+.\validation-nts-10dB\41_f_nts_5.wav r 1.0 o 0.754 b 1.0 a 0.991 t 0.997 e 0.923 s 0.35 e 0.878 b 0.856 e 0.872 t 0.999 e 0.805
+.\validation-nts-10dB\41_f_nts_6.wav r 0.948 o 0.995 h 0.808 e 0.999 ʃ 0.997 b 0.953 a 0.991 t 0.954 e 1.0 b 1.0 e 0.987 h 0.933 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\validation-nts-10dB\41_f_nts_7.wav r 0.542 b 0.541 o 0.454 t 0.443 e 0.998 b 0.974 e 1.0 h 0.942 e 0.989 ʃ 1.0 t 0.597 i 0.518
+.\validation-nts-10dB\41_f_nts_8.wav r 0.969 o 0.902 b 0.676 r 0.577 o 0.91 b 0.998 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 0.829 i 1.0
+.\validation-nts-10dB\41_f_nts_9.wav ʃ 0.762 t 0.998 e 0.943 b 1.0 e 1.0 h 0.789 e 0.995 ʃ 1.0 t 0.989 i 1.0
+.\validation-nts-10dB\46_m_nts_1.wav r 1.0 o 1.0 b 1.0 a 0.985 t 0.991 e 0.994 a 0.802 t 0.706 e 0.61 b 0.951 i 0.689
+.\validation-nts-10dB\46_m_nts_10.wav b 1.0 e 0.998 h 1.0 e 1.0 ʃ 1.0 t 0.995 e 0.834 t 0.977 i 0.997 b 0.999 a 0.996
+.\validation-nts-10dB\46_m_nts_2.wav r 1.0 o 1.0 b 1.0 a 0.991 t 1.0 e 0.999 h 0.319 i 0.946 ʃ 0.99 m 0.941 a 0.405
+.\validation-nts-10dB\46_m_nts_3.wav r 1.0 o 1.0 b 1.0 a 1.0 t 0.626 b 0.404 e 1.0 b 0.949 a 0.999 ʃ 0.999 b 0.988 a 0.958
+.\validation-nts-10dB\46_m_nts_4.wav r 1.0 o 1.0 b 0.997 a 0.993 t 0.986 e 0.989 t 0.691 e 0.999 t 0.377 e 0.995 r 0.998 a 0.905
+.\validation-nts-10dB\46_m_nts_5.wav r 1.0 o 1.0 b 0.998 a 0.993 t 0.977 e 0.999 f 0.391 o 0.982 b 0.927 a 0.871
+.\validation-nts-10dB\46_m_nts_6.wav b 0.579 a 0.887 h 0.401 e 0.993 ʃ 0.948 b 0.918 a 0.681 t 0.774 i 0.881
+.\validation-nts-10dB\46_m_nts_7.wav r 0.894 o 0.678 e 0.991 b 0.998 e 0.999 h 0.922 e 0.996 ʃ 0.983 t 0.687 i 0.531
+.\validation-nts-10dB\46_m_nts_8.wav b 0.641 r 0.877 o 0.356 b 0.981 e 1.0 t 0.464 e 1.0 ʃ 0.983 t 0.989 i 0.993 a 0.499
+.\validation-nts-10dB\46_m_nts_9.wav ʃ 0.404 a 0.961 e 0.695 b 0.997 e 0.546 h 0.557 e 0.994 ʃ 0.998 t 0.664 i 0.571
+.\validation-nts-10dB\49_m_nts_1.wav r 1.0 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 k 0.8 a 0.846 t 0.86 e 0.532 r 0.932 b 0.996 e 0.973 t 0.944 i 0.985
+.\validation-nts-10dB\49_m_nts_10.wav b 0.995 e 0.832 h 1.0 e 1.0 ʃ 1.0 t 0.752 i 0.641 n 0.239 i 0.993 b 0.998 a 0.991
+.\validation-nts-10dB\49_m_nts_2.wav r 0.975 o 1.0 b 0.961 a 1.0 t 1.0 e 0.995 b 0.794 u 0.771 ʃ 0.998 m 0.432 a 0.548
+.\validation-nts-10dB\49_m_nts_3.wav r 1.0 o 1.0 b 0.994 a 0.912 t 1.0 e 0.573 b 0.938 a 0.946 ʃ 0.844 t 0.695 b 0.571 a 0.486
+.\validation-nts-10dB\49_m_nts_4.wav r 0.989 o 0.998 b 1.0 a 0.979 t 1.0 e 0.901 k 0.586 e 0.999 b 0.47 e 0.998 k 0.741 r 0.992 a 0.96
+.\validation-nts-10dB\49_m_nts_5.wav r 0.996 o 0.983 b 1.0 a 1.0 t 0.999 e 0.78 s 0.869 o 0.97 h 0.434 a 0.993 t 0.984 i 0.998
+.\validation-nts-10dB\49_m_nts_6.wav b 0.714 e 0.679 ʃ 0.969 t 0.554 a 0.923 b 0.987 e 0.941 h 0.827 e 1.0 ʃ 0.986 t 1.0 i 0.962
+.\validation-nts-10dB\49_m_nts_7.wav r 0.983 o 0.981 t 0.778 e 0.978 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 0.994
+.\validation-nts-10dB\49_m_nts_8.wav r 1.0 o 0.978 t͡ʃʲ 0.713 t 0.995 e 0.707 b 0.488 e 0.999 b 1.0 e 1.0 h 1.0 e 0.998 ʃ 0.983 t 0.586 i 0.983
+.\validation-nts-10dB\49_m_nts_9.wav ʃ 0.878 t 0.969 e 0.656 h 0.808 e 0.989 b 0.552 e 0.859 h 0.876 e 0.685 ʃ 1.0 t 1.0 i 1.0
+.\validation-nts-10dB\52_f_nts_1.wav r 1.0 o 1.0 b 1.0 a 1.0 t 1.0 e 0.999 k 0.891 a 0.962 t 0.997 o 0.977 r 0.519 e 0.869
+.\validation-nts-10dB\52_f_nts_10.wav b 1.0 e 0.999 h 0.513 e 0.983 ʃ 0.574 t 0.866 i 0.961 b 0.997 a 0.965
+.\validation-nts-10dB\52_f_nts_2.wav r 0.926 o 1.0 b 1.0 a 1.0 t 0.689 e 0.995 ʃ 0.507 b 0.772 e 0.975 t 0.88 e 0.745
+.\validation-nts-10dB\52_f_nts_3.wav r 0.984 o 1.0 b 1.0 a 1.0 t 0.81 e 1.0 b 0.995 a 0.992 ʃ 1.0 t 0.998 e 0.758
+.\validation-nts-10dB\52_f_nts_4.wav r 0.948 o 1.0 b 1.0 a 0.998 t 1.0 e 0.981 t 0.566 e 0.9 l 0.348 e 0.851 r 0.931 a 0.991
+.\validation-nts-10dB\52_f_nts_5.wav r 1.0 o 0.994 b 0.998 a 0.999 t 0.999 e 0.945 r 0.465 o 0.999 a 0.996
+.\validation-nts-10dB\52_f_nts_6.wav r 0.993 o 1.0 n 0.695 e 1.0 ʃ 1.0 t 0.893 o 0.672 a 0.828 b 1.0 e 1.0 h 0.568 e 1.0 ʃ 0.865 t 1.0 i 1.0
+.\validation-nts-10dB\52_f_nts_7.wav r 0.751 o 1.0 b 0.996 e 0.991 b 0.773 e 1.0
+.\validation-nts-10dB\52_f_nts_8.wav d 0.414 o 0.999 k 0.574 e 0.664 t 0.957 o 0.975 b 0.978 e 0.913 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\validation-nts-10dB\52_f_nts_9.wav ʃ 0.981 a 0.807 x 0.86 i 0.749 b 1.0 e 1.0 h 0.553 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\validation-nts-10dB\57_f_nts_1.wav r 1.0 o 1.0 b 0.999 a 0.961 t 0.988 e 0.763 r 0.559 o 0.958 t 0.991 e 0.966 r 0.709 e 0.955 t 1.0 i 0.935
+.\validation-nts-10dB\57_f_nts_10.wav b 1.0 e 1.0 h 1.0 e 1.0 ʃ 0.708 t 0.502 i 0.966 b 0.368 i 0.984 b 0.996 a 0.991 t 0.943 e 0.974 t 0.913 e 0.934
+.\validation-nts-10dB\57_f_nts_2.wav r 1.0 o 1.0 b 1.0 a 0.998 t 0.549 e 1.0 r 0.665 ʃ 1.0 m 0.842 a 0.626
+.\validation-nts-10dB\57_f_nts_3.wav r 1.0 o 0.999 b 1.0 a 0.999 t 0.999 e 0.797 o 0.739 b 1.0 a 0.696 ʃ 0.596 b 0.99 e 0.746 t 0.941
+.\validation-nts-10dB\57_f_nts_4.wav r 1.0 o 1.0 b 0.999 a 0.939 t 0.97 e 1.0 ʃ 0.89 e 0.999 t 0.937 e 0.994 b 0.297 e 0.791 a 0.798
+.\validation-nts-10dB\57_f_nts_5.wav r 1.0 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 r 0.992 o 0.974 x 0.45 a 0.953 b 0.988 e 0.926 h 0.397 e 0.715
+.\validation-nts-10dB\57_f_nts_6.wav r 0.997 o 0.994 b 0.984 e 0.979 t 0.484 r 0.526 a 0.999 t 0.96 e 0.489 b 1.0 e 1.0 h 0.895 e 1.0 ʃ 0.997 t 0.934 i 0.995
+.\validation-nts-10dB\57_f_nts_7.wav r 0.982 o 0.995 b 0.513 e 0.97 b 0.999 e 1.0 ʃ 0.916 e 0.889 i 0.719
+.\validation-nts-10dB\57_f_nts_8.wav r 0.808 o 0.999 b 0.919 o 0.596 r 0.707 o 0.769 b 0.905 a 0.617 t 0.808 e 0.546 b 0.991 e 0.976 h 0.511 e 0.999 ʃ 0.957
+.\validation-nts-10dB\57_f_nts_9.wav ʃ 0.788 a 0.76 h 0.355 i 0.997 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 0.569 i 1.0
+.\validation-nts-10dB\63_f_nts_1.wav r 0.823 o 0.972 r 0.999 o 0.96 b 0.999 a 0.934 t 0.447 e 0.965 r 0.389 a 0.712 t 0.915 e 0.967 i 0.888
+.\validation-nts-10dB\63_f_nts_10.wav r 0.995 o 0.981 b 0.514 t 0.744 e 0.736 t 0.7 e 0.558 b 0.879 e 0.996 h 0.954 e 0.993 ʃ 0.998 t 0.992 i 0.988
+.\validation-nts-10dB\63_f_nts_2.wav r 1.0 o 1.0 b 0.997 e 0.903 t 0.661 e 0.578 t 0.997 i 0.999 r 0.611 o 0.88 b 0.525 e 0.524
+.\validation-nts-10dB\63_f_nts_3.wav r 1.0 o 0.998 b 0.883 o 0.914 b 0.428 e 0.896 t 0.507 e 0.923 b 0.493 e 0.954 h 0.543 e 0.98 ʃ 0.859 t 0.761 a 0.993
+.\validation-nts-10dB\63_f_nts_4.wav r 1.0 o 1.0 t 0.434 e 0.655 h 0.682 e 0.994 t 0.961 e 0.869 t 0.775 e 0.999 b 0.569 e 0.998 t 0.936 e 0.838 b 0.975 a 0.97
+.\validation-nts-10dB\63_f_nts_5.wav r 1.0 o 1.0 b 1.0 a 0.99 t 0.556 e 0.625 t 0.888 e 0.803 t 0.985 i 0.94
+.\validation-nts-10dB\63_f_nts_6.wav b 0.646 o 0.389 r 0.498 o 0.831 b 0.486 e 0.435 i 0.502
+.\validation-nts-10dB\63_f_nts_7.wav r 0.75 o 0.904 ʃ 0.945 t 0.983 i 0.739 t 0.76 e 0.889 b 0.662 e 0.815
+.\validation-nts-10dB\63_f_nts_8.wav r 0.826 o 0.611 b 0.409 e 0.586 b 0.491 e 0.964 b 0.644 e 0.997 h 0.491 e 0.931 t 0.67 b 0.505 i 0.765 t 0.56 o 0.557
+.\validation-nts-10dB\63_f_nts_9.wav b 0.398 o 0.756 b 0.899 o 0.547 b 0.506 e 0.964 b 0.836 e 0.338 b 0.545 ʃ 0.309 t 0.489 e 0.98
+.\validation-nts-10dB\76_f_nts_1.wav b 0.999 a 0.996 t 0.984 e 0.668 r 0.843 o 0.792 r 0.851 o 0.572 b 0.994 e 0.782 i 0.853
+.\validation-nts-10dB\76_f_nts_10(1).wav b 0.991 e 0.999 h 0.96 e 1.0 ʃ 1.0 t 1.0 i 1.0 o 0.778 b 0.997 a 0.962
+.\validation-nts-10dB\76_f_nts_10.wav b 0.693 e 1.0 h 0.89 e 1.0 ʃ 0.507 t 1.0 i 1.0 b 0.999 a 0.994 t 0.595
+.\validation-nts-10dB\76_f_nts_11(1).wav b 0.993 e 0.992 h 0.918 e 0.875 ʃ 1.0 t 0.97 e 0.976 r 0.999 o 0.999 b 0.999 a 0.996 t 0.549 e 0.731 r 0.694 e 0.759 a 0.887
+.\validation-nts-10dB\76_f_nts_11.wav b 0.999 e 0.999 h 0.833 e 0.995 ʃ 0.822 t 0.997 e 0.992 r 1.0 o 0.999 b 1.0 a 0.672 t 1.0 e 0.996 r 0.417 a 0.965
+.\validation-nts-10dB\76_f_nts_12(1).wav r 0.999 o 1.0 b 0.997 a 0.996 t 0.994 e 0.549 k 0.301 a 0.911 t 0.967 e 0.994
+.\validation-nts-10dB\76_f_nts_12.wav r 1.0 o 1.0 b 0.998 a 0.992 t 0.996 e 0.905 b 0.295 a 0.992 t 0.647 e 0.807 t 0.58 i 0.597
+.\validation-nts-10dB\76_f_nts_13(1).wav r 0.996 o 0.893 b 0.998 a 0.999 t 0.999 e 0.997 o 0.321 ʃ 0.978 t 0.553 e 0.932
+.\validation-nts-10dB\76_f_nts_13.wav r 0.999 o 0.973 b 1.0 a 0.999 t 0.955 e 1.0 ʃ 0.628 b 0.78 e 0.862
+.\validation-nts-10dB\76_f_nts_14(1).wav r 1.0 o 0.997 b 0.995 a 0.999 t 0.999 e 0.961 b 0.632 a 0.884 ʃ 0.992 t 0.575 ɒ 0.583
+.\validation-nts-10dB\76_f_nts_14.wav r 1.0 o 0.999 b 0.998 a 0.977 t 0.976 e 1.0 r 0.473 a 0.939 ʃ 0.986 t 0.998 ɒ 0.37
+.\validation-nts-10dB\76_f_nts_15.wav r 1.0 o 1.0 t 0.908 e 0.778 ʃ 0.999 t 0.98 a 0.914 t 0.997 e 0.995 b 1.0 e 1.0 h 0.999 e 0.966 ʃ 0.921 t 0.759 i 0.546
+.\validation-nts-10dB\76_f_nts_16(1).wav r 0.998 o 0.987 b 0.441 e 0.976 t 0.997 i 0.845 h 0.749 e 0.444
+.\validation-nts-10dB\76_f_nts_16.wav r 0.997 o 1.0 r 0.36 o 0.674 t 0.969 e 0.976 h 0.507 e 0.5
+.\validation-nts-10dB\76_f_nts_17.wav r 0.992 o 0.998 b 0.755 t 0.654 b 0.55 a 0.881 b 0.999 e 0.466 h 0.999 e 0.946 ʃ 0.81 t 0.993 i 0.993
+.\validation-nts-10dB\76_f_nts_18.wav ʃ 0.893 t 0.998 a 0.863 t 0.99 i 0.991 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 0.706 i 0.989
+.\validation-nts-10dB\76_f_nts_19.wav b 0.989 e 0.99 h 0.736 e 0.998 ʃ 0.962 t 1.0 e 0.893 t 0.839 i 0.988 b 0.864 a 0.954
+.\validation-nts-10dB\76_f_nts_2.wav r 0.955 o 1.0 b 1.0 a 1.0 t 1.0 e 1.0 h 0.693 ʃ 1.0 b 0.549 e 0.793
+.\validation-nts-10dB\76_f_nts_20.wav b 0.996 e 0.998 h 1.0 e 1.0 ʃ 0.781 t 0.919 i 1.0 r 0.999 o 1.0 b 1.0 a 0.998 t 0.999 a 0.675
+.\validation-nts-10dB\76_f_nts_3.wav r 0.999 o 0.974 b 0.999 a 0.999 t 0.883 e 0.999 b 0.577 o 0.833 ʃ 0.725 b 0.721 e 0.83
+.\validation-nts-10dB\76_f_nts_4.wav r 1.0 o 0.632 b 1.0 a 1.0 t 0.97 e 1.0 t 0.512 e 0.998 l 0.979 e 0.925 t 0.533 b 0.988 a 0.998
+.\validation-nts-10dB\76_f_nts_5.wav r 1.0 o 1.0 b 1.0 a 1.0 t 1.0 e 0.997 s 0.509 o 1.0 t 0.831 e 0.449 b 0.871 e 0.778
+.\validation-nts-10dB\76_f_nts_6.wav o 0.689 h 0.697 e 0.995 h 0.542 ʃ 1.0 t 0.939 a 0.942 e 0.946 b 1.0 e 1.0 h 0.906 e 1.0 ʃ 1.0 t 0.765 i 1.0
+.\validation-nts-10dB\76_f_nts_7.wav r 0.847 o 0.942 t 0.819 e 0.98 b 0.661 e 0.986 h 0.994 e 0.922 ʃ 0.984
+.\validation-nts-10dB\76_f_nts_8.wav r 1.0 o 0.995 b 0.709 t 0.899 o 0.881 b 1.0 e 1.0 h 0.554 e 1.0 ʃ 1.0 t 0.842 i 1.0
+.\validation-nts-10dB\76_f_nts_9.wav ʃ 0.963 e 0.837 x 0.279 i 0.536 b 1.0 e 1.0 h 0.99 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\validation-nts-10dB\81_f_nts_1.wav r 0.903 o 1.0 b 1.0 a 0.998 t 1.0 e 1.0 k 0.858 a 1.0 t 1.0 o 0.507 b 0.948 e 0.967 t 0.941 i 0.995
+.\validation-nts-10dB\81_f_nts_10.wav b 1.0 e 1.0 h 1.0 e 1.0 ʃ 0.992 t 0.999 e 0.87 t 0.965 i 0.999 b 1.0 a 0.999
+.\validation-nts-10dB\81_f_nts_11.wav b 1.0 e 1.0 h 0.935 e 1.0 ʃ 0.999 t 0.644 e 0.97 r 0.999 o 0.999 b 0.999 a 0.997 t 1.0 a 0.413
+.\validation-nts-10dB\81_f_nts_2.wav r 1.0 o 1.0 b 1.0 a 0.597 t 0.994 e 0.658 h 0.712 u 0.476 ʃ 1.0 t 0.65 e 0.332
+.\validation-nts-10dB\81_f_nts_3.wav r 1.0 o 1.0 b 1.0 a 0.994 t 0.999 e 0.651 a 0.873 ʃ 0.948 t 0.621 e 0.973
+.\validation-nts-10dB\81_f_nts_4.wav r 1.0 o 1.0 b 0.984 a 0.999 t 1.0 e 1.0 t 0.967 e 0.999 b 0.579 e 0.98 h 0.499 ʃ 0.975 a 0.973 b 0.388
+.\validation-nts-10dB\81_f_nts_5.wav r 0.993 o 1.0 b 1.0 a 1.0 t 0.984 e 1.0 t 0.958 o 0.999 t 0.455 a 0.954 o 0.503
+.\validation-nts-10dB\81_f_nts_6.wav r 0.491 e 0.396 h 0.727 e 1.0 t 0.409 b 0.686 a 0.968 b 0.937 e 0.879 b 1.0 e 1.0 h 0.949 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\validation-nts-10dB\81_f_nts_7.wav r 0.952 o 0.958 b 0.943 e 0.988 b 1.0 e 0.998 h 0.828 e 0.999 ʃ 0.989 t 0.679
+.\validation-nts-10dB\81_f_nts_8.wav r 0.906 o 0.964 t 0.962 o 0.985 b 1.0 e 1.0 h 1.0 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\validation-nts-10dB\81_f_nts_9.wav ʃ 0.91 e 0.535 h 0.98 e 0.95 t 0.565 e 1.0 h 0.97 e 1.0 ʃ 0.999 t 1.0 i 1.0
+.\validation-nts-10dB\90_m_nts_1.wav r 1.0 o 1.0 b 1.0 a 0.999 t 0.998 e 0.999 k 0.959 o 0.839 t 0.951 e 0.999 r 0.968 e 0.815 t 0.971 i 0.959
+.\validation-nts-10dB\90_m_nts_10.wav b 0.975 e 0.99 h 1.0 e 1.0 ʃ 0.717 t 1.0 i 0.893 b 1.0 a 0.997
+.\validation-nts-10dB\90_m_nts_11.wav b 0.704 e 0.993 h 0.642 e 1.0 ʃ 1.0 t 0.963 i 0.902 r 0.999 o 0.997 b 0.998 a 0.991 t 0.994 e 0.701 a 0.514
+.\validation-nts-10dB\90_m_nts_2.wav r 1.0 o 1.0 b 0.999 a 1.0 t 0.507 e 1.0 h 0.722 b 0.515 ʃ 1.0 m 0.926 i 0.953
+.\validation-nts-10dB\90_m_nts_3.wav r 0.998 o 0.999 b 0.918 a 0.877 t 0.999 e 1.0 a 0.925 ʃ 0.761 t 0.954 e 0.875
+.\validation-nts-10dB\90_m_nts_4.wav r 1.0 o 1.0 b 0.993 a 0.875 t 0.993 e 0.999 t 0.998 e 0.999 b 0.926 e 0.999 r 0.994 a 0.463
+.\validation-nts-10dB\90_m_nts_5.wav r 0.954 o 1.0 b 0.996 a 0.961 t 0.993 e 0.999 t 0.952 o 0.974 b 0.699 a 0.619
+.\validation-nts-10dB\90_m_nts_6.wav b 0.446 o 0.851 h 0.97 e 1.0 ʃ 0.999 t 0.5 o 0.512 b 0.871 e 0.995 b 1.0 e 1.0 h 0.526 e 1.0 ʃ 1.0 t 1.0 i 1.0
+.\validation-nts-10dB\90_m_nts_7.wav r 0.996 o 0.997 b 0.483 e 1.0 b 1.0 e 1.0 h 0.992 e 0.994 ʃ 1.0 i 0.69
+.\validation-nts-10dB\90_m_nts_8.wav r 0.743 o 0.998 b 0.981 t 0.826 o 0.821 b 0.98 e 1.0 h 1.0 e 1.0 ʃ 0.649 t 0.831 i 1.0
+.\validation-nts-10dB\90_m_nts_9.wav b 0.433 e 0.972 h 1.0 e 0.867 b 0.988 e 0.753 h 1.0 e 1.0 ʃ 0.901 t 0.776 i 1.0
